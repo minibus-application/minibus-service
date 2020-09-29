@@ -71,25 +71,26 @@ process.on('SIGTERM', (signal) => {
  * Cron job
  */
 
+// cron to update bookings status depending on start and end time
 cron.schedule('*/1 * * * *', async function () {
+    // find all booked route trips that are already started but active
     Booking.find({$expr: {$and: [{$lt: ['$startDate', new Date()]}, {$eq: ['$active', true]}]}})
         .exec()
         .then(result => {
             if (result.length > 0) {
                 result.forEach(async b => {
                     try {
-                        if (moment().isAfter(moment(b.endDate))) {
+                        if (moment().isAfter(moment(b.endDate))) { // if the trip is already finished
                             await Booking.findOneAndUpdate({_id: b._id}, {enRoute: false, active: false}).exec();
-                            await User.findOneAndUpdate({_id: b.user, enRouteBookingsCount: {$gte: 0}},
+                            await User.findOneAndUpdate({_id: b.user, enRouteBookingsCount: {$gt: 0}},
                                 {$inc: {enRouteBookingsCount: -1, activeBookingsCount: -1}}).exec();
-                        } else if (!b.enRoute) {
+                        } else if (!b.enRoute) { // if the trip hasn't finished yet AND hasn't yet been marked as 'enRoute'
                             await Booking.findOneAndUpdate({_id: b._id}, {enRoute: true}).exec();
                             await User.findByIdAndUpdate(b.user, {$inc: {enRouteBookingsCount: 1}}).exec();
                         }
                     } catch (err) {
                         console.log(err);
                     }
-
                 })
             }
         })
