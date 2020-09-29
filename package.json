@@ -1,0 +1,36 @@
+{
+  "name": "minibus-service",
+  "description": "A nodejs REST API minibus service",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "chai": "^4.2.0",
+    "chalk": "^4.1.0",
+    "cookie-parser": "~1.4.4",
+    "crypto": "^1.0.1",
+    "debug": "~2.6.9",
+    "dotenv": "^8.2.0",
+    "express": "~4.16.1",
+    "faker": "^5.1.0",
+    "helmet": "^4.1.0",
+    "http-errors": "~1.6.3",
+    "https": "^1.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.19",
+    "moment": "^2.27.0",
+    "moment-timezone": "^0.5.31",
+    "mongoose": "^5.9.25",
+    "morgan": "~1.9.1",
+    "node-core-lib": "^0.11.11",
+    "node-cron": "^2.0.3",
+    "nodemon": "^2.0.4",
+    "pug": "2.0.0-beta11",
+    "randexp": "^0.5.3"
+  },
+  "devDependencies": {}
+}
