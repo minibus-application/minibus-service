@@ -17,7 +17,13 @@ exports.getByCities = (req, res, next) => {
         .populate({path: 'from', model: City})
         .populate({path: 'to', model: City})
         .exec()
-        .then(route => res.status(200).json(route))
+        .then(route => {
+            if (route) {
+                res.status(200).json(route)
+            } else {
+                throw new AppError()
+            }
+        })
         .catch(err => next(new AppError(err.statusCode, 'The route was not found')));
 };
 
