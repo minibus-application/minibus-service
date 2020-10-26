@@ -11,7 +11,7 @@ const router = express.Router();
  * Local modules
  */
 
-const CitiesController = require('./../controllers/cities_controller');
+const CitiesController = require('../controllers/cities_controller');
 
 /**
  * Routers

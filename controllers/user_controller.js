@@ -10,7 +10,7 @@ const _ = require('lodash');
  * Local modules
  */
 
-const AppError = require('./../helpers/error');
+const AppError = require('../helpers/error');
 const ObjectId = require('mongoose').Types.ObjectId;
 const {User} = require('../models/user');
 const {Booking} = require('../models/booking');

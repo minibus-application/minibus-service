@@ -6,8 +6,8 @@ require('dotenv').config();
  * Local modules
  */
 
-const AppError = require('./../helpers/error');
-const {Booking} = require('./../models/booking');
+const AppError = require('../helpers/error');
+const {Booking} = require('../models/booking');
 
 /**
  * Exports

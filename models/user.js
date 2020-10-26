@@ -18,8 +18,8 @@ const Schema = mongoose.Schema;
  * Local modules
  */
 
-const {Trip} = require('../models/trip');
-const AppError = require('./../helpers/error');
+const {Trip} = require('./trip');
+const AppError = require('../helpers/error');
 
 /**
  * Main

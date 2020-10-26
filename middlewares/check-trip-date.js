@@ -12,8 +12,8 @@ const moment = require('moment');
  * Local modules
  */
 
-const AppError = require('./../helpers/error');
-const {Route} = require('./../models/route');
+const AppError = require('../helpers/error');
+const {Route} = require('../models/route');
 
 /**
  * Exports

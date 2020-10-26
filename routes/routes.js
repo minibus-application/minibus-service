@@ -11,7 +11,7 @@ const router = express.Router();
  * Local modules
  */
 
-const RoutesController = require('./../controllers/routes_controller');
+const RoutesController = require('../controllers/routes_controller');
 
 /**
  * Routers

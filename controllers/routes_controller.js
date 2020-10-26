@@ -6,7 +6,7 @@
 
 const {Route} = require("../models/route");
 const {City} = require("../models/city");
-const AppError = require('./../helpers/error');
+const AppError = require('../helpers/error');
 
 /**
  * Exports

@@ -11,7 +11,7 @@ const router = express.Router();
  * Local modules
  */
 
-const TripsController = require('./../controllers/trips_controller');
+const TripsController = require('../controllers/trips_controller');
 const checkToken = require('../middlewares/check-auth');
 const checkTripDate = require('../middlewares/check-trip-date');
 const checkBookingLimit = require('../middlewares/check-booking-limit');

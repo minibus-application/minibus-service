@@ -11,7 +11,7 @@ const Schema = mongoose.Schema;
  * Local modules
  */
 
-const {Carrier} = require('../models/carrier');
+const {Carrier} = require('.//carrier');
 
 /**
  * Main

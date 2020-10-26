@@ -12,7 +12,7 @@ const jwt = require('jsonwebtoken');
  * Local modules
  */
 
-const AppError = require('./../helpers/error');
+const AppError = require('../helpers/error');
 
 /**
  * Exports

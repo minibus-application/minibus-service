@@ -10,8 +10,8 @@ const mongoose = require('mongoose');
 const cron = require('node-cron');
 const moment = require('moment');
 const _ = require('lodash');
-const {Booking} = require('./api/models/booking');
-const {User} = require('./api/models/user');
+const {Booking} = require('./models/booking');
+const {User} = require('./models/user');
 const http = require('http');
 const port = process.env.PORT || 3000;
 
@@ -50,7 +50,9 @@ mongoose.connect(mongodbUrl, {
     socketTimeoutMS: 45000,
     useNewUrlParser: true,
     useUnifiedTopology: true,
-    useFindAndModify: false
+    useFindAndModify: false,
+    reconnectTries: Number.MAX_VALUE,
+    reconnectInterval: 500
 });
 
 /**

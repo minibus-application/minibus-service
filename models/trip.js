@@ -11,7 +11,7 @@ const Schema = mongoose.Schema;
  * Local modules
  */
 
-const {Route} = require('../models/route');
+const {Route} = require('./route');
 const {Vehicle} = require('./vehicle');
 
 /**

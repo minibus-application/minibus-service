@@ -14,7 +14,7 @@ const _ = require('lodash');
  * Local modules
  */
 
-const AppError = require('./../helpers/error');
+const AppError = require('../helpers/error');
 const {Trip} = require('../models/trip');
 const {User} = require('../models/user');
 const {Route} = require('../models/route');

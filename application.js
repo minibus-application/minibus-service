@@ -17,19 +17,19 @@ const app = express();
  */
 
 // init mongodb models
-require("./api/models/carrier");
-require("./api/models/vehicle");
-require("./api/models/city");
-require("./api/models/route");
-require("./api/models/trip");
-require("./api/models/user");
-require("./api/models/booking");
+require("./models/carrier");
+require("./models/vehicle");
+require("./models/city");
+require("./models/route");
+require("./models/trip");
+require("./models/user");
+require("./models/booking");
 
 // import Routers
-const citiesRouter = require("./api/routes/cities");
-const scheduleRouter = require("./api/routes/schedule");
-const userRouter = require("./api/routes/user");
-const routesRouter = require("./api/routes/routes");
+const citiesRouter = require("./routes/cities");
+const scheduleRouter = require("./routes/schedule");
+const userRouter = require("./routes/user");
+const routesRouter = require("./routes/routes");
 
 /**
  * Main
