@@ -6,41 +6,13 @@ require("dotenv").config();
  * Modules
  */
 
-const _ = require("lodash");
+const fs = require('fs');
+const _ = require('lodash');
 const faker = require('faker');
 const randexp = require('randexp').randexp;
 const assert = require('chai').assert;
-const mongoose = require('mongoose');
 const moment = require('moment');
 const ObjectId = require('mongoose').Types.ObjectId;
-
-/**
- * MongoDB models
- */
-
-const {Carrier} = require("./api/models/carrier");
-const {Vehicle} = require("./api/models/vehicle");
-const {City} = require("./api/models/city");
-const {Route} = require("./api/models/route");
-const {Trip} = require("./api/models/trip");
-
-/**
- * MongoDB connecting
- */
-
-const mongodbUrl = `mongodb+srv://admin:${process.env.MONGO_PASS}@cluster-0.sqgnv.gcp.mongodb.net/${process.env.MONGO_DB}?retryWrites=true&w=majority`;
-// mongoose.connect(mongodbUrl, {
-//     keepAlive: true,
-//     family: 4,
-//     useCreateIndex: true,
-//     autoIndex: true,
-//     poolSize: 10,
-//     bufferMaxEntries: 0,
-//     connectTimeoutMS: 10000,
-//     socketTimeoutMS: 45000,
-//     useNewUrlParser: true,
-//     useUnifiedTopology: true
-// }).then(res => console.log(res));
 
 /**
  * General
@@ -143,8 +115,6 @@ const carriers = Array.from({length: carriersCount}).map(n => {
 
 assert.equal(carriers.length, carriersCount);
 
-console.log(`carriers: ${JSON.stringify(carriers)}`);
-
 /**
  * Generating City dataset
  */
@@ -161,8 +131,6 @@ const cities = regionsData.map(obj => {
 });
 
 assert.equal(cities.length, citiesCount);
-
-console.log(`cities: ${JSON.stringify(cities)}`);
 
 /**
  * Generating Route dataset
@@ -196,8 +164,6 @@ cities.forEach((from) => {
 });
 
 assert.equal(routes.length, routesCount);
-
-console.log(`routes: ${JSON.stringify(routes)}`);
 
 /**
  * Generating Trip and Vehicle datasets
@@ -261,22 +227,19 @@ routes.forEach((route) => {
 assert.equal(vehicles.length, vehicleCount);
 assert.equal(trips.length, tripsCount);
 
-console.log(`vehicles: ${JSON.stringify(vehicles)}`);
-console.log(`trips: ${JSON.stringify(trips)}`);
-
 /**
- * Populating
+ * Writing to files
  */
 
-// (function() {
-//     Carrier.insertMany(carriers).then(res => console.log(res)).catch(err => console.log(err));
-//     City.insertMany(cities).then(res => console.log(res)).catch(err => console.log(err));
-//     Route.insertMany(routes).then(res => console.log(res)).catch(err => console.log(err));
-//     Vehicle.insertMany(vehicles).then(res => console.log(res)).catch(err => console.log(err));
-//     Trip.insertMany(trips).then(res => console.log(res)).catch(err => console.log(err));
-//
-//     // mongoose.connection.close();
-// })();
+(function() {
+    const dataDir = 'data';
+    fs.existsSync(dataDir) || fs.mkdirSync(dataDir);
+    fs.writeFile(`${dataDir}/carriers.json`, JSON.stringify(carriers, null, 2), err => { if(err) console.log(err) });
+    fs.writeFile(`${dataDir}/cities.json`, JSON.stringify(cities, null, 2), err => { if(err) console.log(err) });
+    fs.writeFile(`${dataDir}/routes.json`, JSON.stringify(routes, null, 2), err => { if(err) console.log(err) });
+    fs.writeFile(`${dataDir}/vehicles.json`, JSON.stringify(vehicles, null, 2), err => { if(err) console.log(err) });
+    fs.writeFile(`${dataDir}/trips.json`, JSON.stringify(trips, null, 2), err => { if(err) console.log(err) });
+})();
 
 /**
  * Helpers
