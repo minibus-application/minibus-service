@@ -106,7 +106,7 @@ const carriers = Array.from({length: carriersCount}).map(n => {
     const calculatedCostFactor = ceil(generatedRating / acceptableCarrierRating, 10).toFixed(1);
 
     return {
-        _id: new ObjectId,
+        _id: {$oid: new ObjectId},
         name: generatedName,
         rating: `${generatedRating}`,
         tripCostFactor: `${calculatedCostFactor}`
@@ -121,7 +121,7 @@ assert.equal(carriers.length, carriersCount);
 
 const cities = regionsData.map(obj => {
     return {
-        _id: new ObjectId,
+        _id: {$oid: new ObjectId},
         name: obj.name,
         region: obj.region,
         station: obj.station,
@@ -145,7 +145,7 @@ cities.forEach((from) => {
 
         let desc = `${from.name} — ${to.name}`;
         routes.push({
-            _id: new ObjectId,
+            _id: {$oid: new ObjectId},
             desc: desc,
             from: from._id,
             to: to._id,
@@ -174,7 +174,7 @@ const vehicles = [];
 function generateVehicleObj(regionNumber) {
     const vehicle = _.defaults(_.sample(vehicleModels), {color: _.sample(vehicleColors)});
     const vehicleObj = {
-        _id: new ObjectId,
+        _id: {$oid: new ObjectId},
         color: vehicle.color,
         make: vehicle.make,
         model: vehicle.model,
@@ -209,7 +209,7 @@ routes.forEach((route) => {
         const timeSpan = moment.duration(tripEndTime - tripStartTime);
 
         trips.push({
-            _id: new ObjectId,
+            _id: {$oid: new ObjectId},
             cost: `${ceil(finalTripCost, 10)}`,
             currency: currency,
             fromTime: tripStartTime.format('HH:mm'),
@@ -232,13 +232,11 @@ assert.equal(trips.length, tripsCount);
  */
 
 (function() {
-    const dataDir = 'data';
-    fs.existsSync(dataDir) || fs.mkdirSync(dataDir);
-    fs.writeFile(`${dataDir}/carriers.json`, JSON.stringify(carriers, null, 2), err => { if(err) console.log(err) });
-    fs.writeFile(`${dataDir}/cities.json`, JSON.stringify(cities, null, 2), err => { if(err) console.log(err) });
-    fs.writeFile(`${dataDir}/routes.json`, JSON.stringify(routes, null, 2), err => { if(err) console.log(err) });
-    fs.writeFile(`${dataDir}/vehicles.json`, JSON.stringify(vehicles, null, 2), err => { if(err) console.log(err) });
-    fs.writeFile(`${dataDir}/trips.json`, JSON.stringify(trips, null, 2), err => { if(err) console.log(err) });
+    fs.writeFile('./mongo/carriers.json', JSON.stringify(carriers, null, 2), err => { if(err) console.log(err) });
+    fs.writeFile('./mongo/cities.json', JSON.stringify(cities, null, 2), err => { if(err) console.log(err) });
+    fs.writeFile('./mongo/routes.json', JSON.stringify(routes, null, 2), err => { if(err) console.log(err) });
+    fs.writeFile('./mongo/vehicles.json', JSON.stringify(vehicles, null, 2), err => { if(err) console.log(err) });
+    fs.writeFile('./mongo/trips.json', JSON.stringify(trips, null, 2), err => { if(err) console.log(err) });
 })();
 
 /**

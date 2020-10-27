@@ -1,0 +1,62 @@
+[
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2083b"
+    },
+    "name": "Brest",
+    "region": "Bresckaja voblasć",
+    "station": "Brescki aŭtavakzal",
+    "lat": 52.099049,
+    "lng": 23.681711
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2083c"
+    },
+    "name": "Viciebsk",
+    "region": "Viciebskaja voblasć",
+    "station": "Viciebski aŭtavakzal",
+    "lat": 55.196372,
+    "lng": 30.187894
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2083d"
+    },
+    "name": "Homieĺ",
+    "region": "Homieĺskaja voblasć",
+    "station": "Homieĺski aŭtavakzal",
+    "lat": 52.434193,
+    "lng": 30.993189
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2083e"
+    },
+    "name": "Hrodna",
+    "region": "Hrodzienskaja voblasć",
+    "station": "Hrodzienski aŭtavakzal",
+    "lat": 53.677844,
+    "lng": 23.843776
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2083f"
+    },
+    "name": "Mahilioŭ",
+    "region": "Mahilioŭskaja voblasć",
+    "station": "Mahilioŭski aŭtavakzal",
+    "lat": 53.913142,
+    "lng": 30.34757
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20840"
+    },
+    "name": "Minsk",
+    "region": "Minskaja voblasć",
+    "station": "Minski centralny aŭtavakzal",
+    "lat": 53.890245,
+    "lng": 27.554384
+  }
+]

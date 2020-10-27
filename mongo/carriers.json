@@ -1,0 +1,202 @@
+[
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20822"
+    },
+    "name": "NATUS Trans.",
+    "rating": "2.2",
+    "tripCostFactor": "0.6"
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20823"
+    },
+    "name": "SUNT Trans.",
+    "rating": "3.3",
+    "tripCostFactor": "0.9"
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20824"
+    },
+    "name": "PERFERENDIS Trans.",
+    "rating": "4.0",
+    "tripCostFactor": "1.1"
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20825"
+    },
+    "name": "DELECTUS Trans.",
+    "rating": "2.5",
+    "tripCostFactor": "0.7"
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20826"
+    },
+    "name": "CONSEQUATUR Trans.",
+    "rating": "3.3",
+    "tripCostFactor": "0.9"
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20827"
+    },
+    "name": "CONSEQUATUR Trans.",
+    "rating": "4.6",
+    "tripCostFactor": "1.2"
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20828"
+    },
+    "name": "APERIAM Trans.",
+    "rating": "3.5",
+    "tripCostFactor": "0.9"
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20829"
+    },
+    "name": "NUMQUAM Trans.",
+    "rating": "4.3",
+    "tripCostFactor": "1.2"
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2082a"
+    },
+    "name": "ET Trans.",
+    "rating": "4.7",
+    "tripCostFactor": "1.3"
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2082b"
+    },
+    "name": "NUMQUAM Trans.",
+    "rating": "2.2",
+    "tripCostFactor": "0.6"
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2082c"
+    },
+    "name": "VOLUPTATIBUS Trans.",
+    "rating": "2.9",
+    "tripCostFactor": "0.8"
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2082d"
+    },
+    "name": "IUSTO Trans.",
+    "rating": "2.9",
+    "tripCostFactor": "0.8"
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2082e"
+    },
+    "name": "OMNIS Trans.",
+    "rating": "2.4",
+    "tripCostFactor": "0.7"
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2082f"
+    },
+    "name": "AUT Trans.",
+    "rating": "3.0",
+    "tripCostFactor": "0.8"
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20830"
+    },
+    "name": "ERROR Trans.",
+    "rating": "4.9",
+    "tripCostFactor": "1.3"
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20831"
+    },
+    "name": "EXERCITATIONEM Trans.",
+    "rating": "3.3",
+    "tripCostFactor": "0.9"
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20832"
+    },
+    "name": "SEQUI Trans.",
+    "rating": "2.5",
+    "tripCostFactor": "0.7"
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20833"
+    },
+    "name": "EST Trans.",
+    "rating": "2.1",
+    "tripCostFactor": "0.6"
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20834"
+    },
+    "name": "CONSECTETUR Trans.",
+    "rating": "5.0",
+    "tripCostFactor": "1.3"
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20835"
+    },
+    "name": "AMET Trans.",
+    "rating": "4.8",
+    "tripCostFactor": "1.3"
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20836"
+    },
+    "name": "EXERCITATIONEM Trans.",
+    "rating": "4.7",
+    "tripCostFactor": "1.3"
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20837"
+    },
+    "name": "ACCUSAMUS Trans.",
+    "rating": "2.1",
+    "tripCostFactor": "0.6"
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20838"
+    },
+    "name": "QUOS Trans.",
+    "rating": "4.9",
+    "tripCostFactor": "1.3"
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20839"
+    },
+    "name": "ET Trans.",
+    "rating": "2.6",
+    "tripCostFactor": "0.7"
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2083a"
+    },
+    "name": "ID Trans.",
+    "rating": "3.1",
+    "tripCostFactor": "0.8"
+  }
+]

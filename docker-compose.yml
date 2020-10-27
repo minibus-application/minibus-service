@@ -1,0 +1,61 @@
+version: '3'
+
+services:
+
+  minibus-mongodb:
+    image: mongo:4.2
+    container_name: minibus-mongodb
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=$MONGO_USER
+      - MONGO_INITDB_ROOT_PASSWORD=$MONGO_PASS
+    ports:
+      - "27017:27017"
+    volumes:
+      - dbdata:/data/db
+    networks:
+      - minibus-network
+
+  minibus-nodejs:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: nodejs
+    container_name: minibus-nodejs
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      - MONGO_USER=$MONGO_USER
+      - MONGO_PASS=$MONGO_PASS
+      - MONGO_HOST=$MONGO_HOST
+      - MONGO_PORT=$MONGO_PORT
+      - MONGO_DB=$MONGO_DB
+    ports:
+      - "80:8080"
+    volumes:
+      - .:/home/node/app
+      - node_modules:/home/node/app/node_modules
+    networks:
+      - minibus-network
+    depends_on:
+      - minibus-mongodb
+    command: /home/node/app/node_modules/.bin/nodemon server.js
+
+  mongodb-seed:
+    image: mongo:4.2
+    networks:
+      - minibus-network
+    depends_on:
+      - minibus-nodejs
+    volumes:
+      - ./mongo:/data
+    command: /data/import.sh
+
+networks:
+  minibus-network:
+    driver: bridge
+
+volumes:
+  dbdata:
+  node_modules:

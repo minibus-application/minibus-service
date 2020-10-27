@@ -13,7 +13,7 @@ const _ = require('lodash');
 const {Booking} = require('./models/booking');
 const {User} = require('./models/user');
 const http = require('http');
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 8080;
 
 /**
  * Local modules
@@ -25,7 +25,9 @@ const app = require('./application');
  * Main
  */
 
-const mongodbUrl = `mongodb+srv://admin:${process.env.MONGO_PASS}@cluster-0.sqgnv.gcp.mongodb.net/${process.env.MONGO_DB}?retryWrites=true&w=majority`;
+
+const mongodbUrl = process.env.MONGO_URI ||
+    `mongodb://${process.env.MONGO_USER}:${process.env.MONGO_PASS}@${process.env.MONGO_HOST}:${process.env.MONGO_PORT}/${process.env.MONGO_DB}?authSource=admin`;
 const server = http.createServer(app);
 
 function listen() {
@@ -50,9 +52,7 @@ mongoose.connect(mongodbUrl, {
     socketTimeoutMS: 45000,
     useNewUrlParser: true,
     useUnifiedTopology: true,
-    useFindAndModify: false,
-    reconnectTries: Number.MAX_VALUE,
-    reconnectInterval: 500
+    useFindAndModify: false
 });
 
 /**

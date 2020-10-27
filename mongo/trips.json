@@ -1,0 +1,7202 @@
+[
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20860"
+    },
+    "cost": "11",
+    "currency": "BYN",
+    "fromTime": "05:24",
+    "toTime": "11:30",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2085f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20841"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20862"
+    },
+    "cost": "11",
+    "currency": "BYN",
+    "fromTime": "06:07",
+    "toTime": "12:13",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20861"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20841"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20864"
+    },
+    "cost": "11",
+    "currency": "BYN",
+    "fromTime": "06:51",
+    "toTime": "12:57",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20863"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20841"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20866"
+    },
+    "cost": "14.7",
+    "currency": "BYN",
+    "fromTime": "07:34",
+    "toTime": "13:40",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20865"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20841"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20868"
+    },
+    "cost": "14.7",
+    "currency": "BYN",
+    "fromTime": "08:18",
+    "toTime": "14:24",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20867"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20841"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2086a"
+    },
+    "cost": "14.7",
+    "currency": "BYN",
+    "fromTime": "09:02",
+    "toTime": "15:08",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20869"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20841"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2086c"
+    },
+    "cost": "14.7",
+    "currency": "BYN",
+    "fromTime": "09:45",
+    "toTime": "15:51",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2086b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20841"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2086e"
+    },
+    "cost": "14.7",
+    "currency": "BYN",
+    "fromTime": "10:29",
+    "toTime": "16:35",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2086d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20841"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20870"
+    },
+    "cost": "23.8",
+    "currency": "BYN",
+    "fromTime": "11:12",
+    "toTime": "17:18",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2086f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20841"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20872"
+    },
+    "cost": "23.8",
+    "currency": "BYN",
+    "fromTime": "11:56",
+    "toTime": "18:02",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20871"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20841"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20874"
+    },
+    "cost": "16.5",
+    "currency": "BYN",
+    "fromTime": "12:40",
+    "toTime": "18:46",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20873"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20841"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20876"
+    },
+    "cost": "14.7",
+    "currency": "BYN",
+    "fromTime": "13:23",
+    "toTime": "19:29",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20875"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20841"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20878"
+    },
+    "cost": "11",
+    "currency": "BYN",
+    "fromTime": "14:07",
+    "toTime": "20:13",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20877"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20841"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2087a"
+    },
+    "cost": "11",
+    "currency": "BYN",
+    "fromTime": "14:50",
+    "toTime": "20:56",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20879"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20841"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2087c"
+    },
+    "cost": "23.8",
+    "currency": "BYN",
+    "fromTime": "15:34",
+    "toTime": "21:40",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2087b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20841"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2087e"
+    },
+    "cost": "11.7",
+    "currency": "BYN",
+    "fromTime": "05:49",
+    "toTime": "11:21",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2087d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20842"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20880"
+    },
+    "cost": "13.3",
+    "currency": "BYN",
+    "fromTime": "06:34",
+    "toTime": "12:06",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2087f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20842"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20882"
+    },
+    "cost": "21.6",
+    "currency": "BYN",
+    "fromTime": "07:20",
+    "toTime": "12:52",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20881"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20842"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20884"
+    },
+    "cost": "20",
+    "currency": "BYN",
+    "fromTime": "08:06",
+    "toTime": "13:38",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20883"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20842"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20886"
+    },
+    "cost": "18.3",
+    "currency": "BYN",
+    "fromTime": "08:52",
+    "toTime": "14:24",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20885"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20842"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20888"
+    },
+    "cost": "15",
+    "currency": "BYN",
+    "fromTime": "09:38",
+    "toTime": "15:10",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20887"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20842"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2088a"
+    },
+    "cost": "10",
+    "currency": "BYN",
+    "fromTime": "10:24",
+    "toTime": "15:56",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20889"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20842"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2088c"
+    },
+    "cost": "13.3",
+    "currency": "BYN",
+    "fromTime": "11:10",
+    "toTime": "16:42",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2088b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20842"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2088e"
+    },
+    "cost": "11.7",
+    "currency": "BYN",
+    "fromTime": "11:55",
+    "toTime": "17:27",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2088d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20842"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20890"
+    },
+    "cost": "15",
+    "currency": "BYN",
+    "fromTime": "12:41",
+    "toTime": "18:13",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2088f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20842"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20892"
+    },
+    "cost": "18.3",
+    "currency": "BYN",
+    "fromTime": "13:27",
+    "toTime": "18:59",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20891"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20842"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20894"
+    },
+    "cost": "15",
+    "currency": "BYN",
+    "fromTime": "14:13",
+    "toTime": "19:45",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20893"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20842"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20896"
+    },
+    "cost": "10",
+    "currency": "BYN",
+    "fromTime": "14:59",
+    "toTime": "20:31",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20895"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20842"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20898"
+    },
+    "cost": "11.7",
+    "currency": "BYN",
+    "fromTime": "15:45",
+    "toTime": "21:17",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20897"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20842"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2089a"
+    },
+    "cost": "15",
+    "currency": "BYN",
+    "fromTime": "16:31",
+    "toTime": "22:03",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20899"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20842"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2089c"
+    },
+    "cost": "5.3",
+    "currency": "BYN",
+    "fromTime": "06:32",
+    "toTime": "08:29",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2089b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20843"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2089e"
+    },
+    "cost": "3.6",
+    "currency": "BYN",
+    "fromTime": "07:28",
+    "toTime": "09:25",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2089d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20843"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208a0"
+    },
+    "cost": "7.7",
+    "currency": "BYN",
+    "fromTime": "08:24",
+    "toTime": "10:21",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2089f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20843"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208a2"
+    },
+    "cost": "4.1",
+    "currency": "BYN",
+    "fromTime": "09:20",
+    "toTime": "11:17",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208a1"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20843"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208a4"
+    },
+    "cost": "7.7",
+    "currency": "BYN",
+    "fromTime": "10:16",
+    "toTime": "12:13",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208a3"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20843"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208a6"
+    },
+    "cost": "4.1",
+    "currency": "BYN",
+    "fromTime": "11:13",
+    "toTime": "13:10",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208a5"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20843"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208a8"
+    },
+    "cost": "5.3",
+    "currency": "BYN",
+    "fromTime": "12:09",
+    "toTime": "14:06",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208a7"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20843"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208aa"
+    },
+    "cost": "4.1",
+    "currency": "BYN",
+    "fromTime": "13:05",
+    "toTime": "15:02",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208a9"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20843"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208ac"
+    },
+    "cost": "7.7",
+    "currency": "BYN",
+    "fromTime": "14:01",
+    "toTime": "15:58",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208ab"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20843"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208ae"
+    },
+    "cost": "4.7",
+    "currency": "BYN",
+    "fromTime": "14:57",
+    "toTime": "16:54",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208ad"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20843"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208b0"
+    },
+    "cost": "7.7",
+    "currency": "BYN",
+    "fromTime": "15:54",
+    "toTime": "17:51",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208af"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20843"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208b2"
+    },
+    "cost": "4.1",
+    "currency": "BYN",
+    "fromTime": "16:50",
+    "toTime": "18:47",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208b1"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20843"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208b4"
+    },
+    "cost": "4.7",
+    "currency": "BYN",
+    "fromTime": "17:46",
+    "toTime": "19:43",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208b3"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20843"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208b6"
+    },
+    "cost": "4.1",
+    "currency": "BYN",
+    "fromTime": "18:42",
+    "toTime": "20:39",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208b5"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20843"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208b8"
+    },
+    "cost": "4.1",
+    "currency": "BYN",
+    "fromTime": "19:38",
+    "toTime": "21:35",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208b7"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20843"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208ba"
+    },
+    "cost": "19.6",
+    "currency": "BYN",
+    "fromTime": "06:53",
+    "toTime": "12:19",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208b9"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20844"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208bc"
+    },
+    "cost": "21.2",
+    "currency": "BYN",
+    "fromTime": "07:35",
+    "toTime": "13:01",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208bb"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20844"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208be"
+    },
+    "cost": "21.2",
+    "currency": "BYN",
+    "fromTime": "08:17",
+    "toTime": "13:43",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208bd"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20844"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208c0"
+    },
+    "cost": "9.8",
+    "currency": "BYN",
+    "fromTime": "08:59",
+    "toTime": "14:25",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208bf"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20844"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208c2"
+    },
+    "cost": "19.6",
+    "currency": "BYN",
+    "fromTime": "09:42",
+    "toTime": "15:08",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208c1"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20844"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208c4"
+    },
+    "cost": "9.8",
+    "currency": "BYN",
+    "fromTime": "10:24",
+    "toTime": "15:50",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208c3"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20844"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208c6"
+    },
+    "cost": "11.5",
+    "currency": "BYN",
+    "fromTime": "11:06",
+    "toTime": "16:32",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208c5"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20844"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208c8"
+    },
+    "cost": "21.2",
+    "currency": "BYN",
+    "fromTime": "11:48",
+    "toTime": "17:14",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208c7"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20844"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208ca"
+    },
+    "cost": "21.2",
+    "currency": "BYN",
+    "fromTime": "12:31",
+    "toTime": "17:57",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208c9"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20844"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208cc"
+    },
+    "cost": "11.5",
+    "currency": "BYN",
+    "fromTime": "13:13",
+    "toTime": "18:39",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208cb"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20844"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208ce"
+    },
+    "cost": "21.2",
+    "currency": "BYN",
+    "fromTime": "13:55",
+    "toTime": "19:21",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208cd"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20844"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208d0"
+    },
+    "cost": "11.5",
+    "currency": "BYN",
+    "fromTime": "14:37",
+    "toTime": "20:03",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208cf"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20844"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208d2"
+    },
+    "cost": "13.1",
+    "currency": "BYN",
+    "fromTime": "15:20",
+    "toTime": "20:46",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208d1"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20844"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208d4"
+    },
+    "cost": "21.2",
+    "currency": "BYN",
+    "fromTime": "16:02",
+    "toTime": "21:28",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208d3"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20844"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208d6"
+    },
+    "cost": "21.2",
+    "currency": "BYN",
+    "fromTime": "16:44",
+    "toTime": "22:10",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208d5"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20844"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208d8"
+    },
+    "cost": "9.8",
+    "currency": "BYN",
+    "fromTime": "07:09",
+    "toTime": "10:46",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208d7"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20845"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208da"
+    },
+    "cost": "9.8",
+    "currency": "BYN",
+    "fromTime": "07:54",
+    "toTime": "11:31",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208d9"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20845"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208dc"
+    },
+    "cost": "14.2",
+    "currency": "BYN",
+    "fromTime": "08:40",
+    "toTime": "12:17",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208db"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20845"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208de"
+    },
+    "cost": "6.6",
+    "currency": "BYN",
+    "fromTime": "09:25",
+    "toTime": "13:02",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208dd"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20845"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208e0"
+    },
+    "cost": "6.6",
+    "currency": "BYN",
+    "fromTime": "10:11",
+    "toTime": "13:48",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208df"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20845"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208e2"
+    },
+    "cost": "8.7",
+    "currency": "BYN",
+    "fromTime": "10:56",
+    "toTime": "14:33",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208e1"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20845"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208e4"
+    },
+    "cost": "14.2",
+    "currency": "BYN",
+    "fromTime": "11:42",
+    "toTime": "15:19",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208e3"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20845"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208e6"
+    },
+    "cost": "9.8",
+    "currency": "BYN",
+    "fromTime": "12:27",
+    "toTime": "16:04",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208e5"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20845"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208e8"
+    },
+    "cost": "12",
+    "currency": "BYN",
+    "fromTime": "13:13",
+    "toTime": "16:50",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208e7"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20845"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208ea"
+    },
+    "cost": "14.2",
+    "currency": "BYN",
+    "fromTime": "13:58",
+    "toTime": "17:35",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208e9"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20845"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208ec"
+    },
+    "cost": "13.1",
+    "currency": "BYN",
+    "fromTime": "14:44",
+    "toTime": "18:21",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208eb"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20845"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208ee"
+    },
+    "cost": "7.6",
+    "currency": "BYN",
+    "fromTime": "15:29",
+    "toTime": "19:06",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208ed"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20845"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208f0"
+    },
+    "cost": "9.8",
+    "currency": "BYN",
+    "fromTime": "16:15",
+    "toTime": "19:52",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208ef"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20845"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208f2"
+    },
+    "cost": "14.2",
+    "currency": "BYN",
+    "fromTime": "17:00",
+    "toTime": "20:37",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208f1"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20845"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208f4"
+    },
+    "cost": "8.7",
+    "currency": "BYN",
+    "fromTime": "17:46",
+    "toTime": "21:23",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208f3"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20845"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208f6"
+    },
+    "cost": "22",
+    "currency": "BYN",
+    "fromTime": "07:05",
+    "toTime": "13:11",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208f5"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20846"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208f8"
+    },
+    "cost": "23.8",
+    "currency": "BYN",
+    "fromTime": "07:40",
+    "toTime": "13:46",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208f7"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20846"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208fa"
+    },
+    "cost": "16.5",
+    "currency": "BYN",
+    "fromTime": "08:16",
+    "toTime": "14:22",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208f9"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20846"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208fc"
+    },
+    "cost": "14.7",
+    "currency": "BYN",
+    "fromTime": "08:51",
+    "toTime": "14:57",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208fb"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20846"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208fe"
+    },
+    "cost": "23.8",
+    "currency": "BYN",
+    "fromTime": "09:27",
+    "toTime": "15:33",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208fd"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20846"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20900"
+    },
+    "cost": "12.9",
+    "currency": "BYN",
+    "fromTime": "10:03",
+    "toTime": "16:09",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde208ff"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20846"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20902"
+    },
+    "cost": "16.5",
+    "currency": "BYN",
+    "fromTime": "10:38",
+    "toTime": "16:44",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20901"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20846"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20904"
+    },
+    "cost": "23.8",
+    "currency": "BYN",
+    "fromTime": "11:14",
+    "toTime": "17:20",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20903"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20846"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20906"
+    },
+    "cost": "11",
+    "currency": "BYN",
+    "fromTime": "11:49",
+    "toTime": "17:55",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20905"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20846"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20908"
+    },
+    "cost": "23.8",
+    "currency": "BYN",
+    "fromTime": "12:25",
+    "toTime": "18:31",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20907"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20846"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2090a"
+    },
+    "cost": "12.9",
+    "currency": "BYN",
+    "fromTime": "13:01",
+    "toTime": "19:07",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20909"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20846"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2090c"
+    },
+    "cost": "14.7",
+    "currency": "BYN",
+    "fromTime": "13:36",
+    "toTime": "19:42",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2090b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20846"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2090e"
+    },
+    "cost": "14.7",
+    "currency": "BYN",
+    "fromTime": "14:12",
+    "toTime": "20:18",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2090d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20846"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20910"
+    },
+    "cost": "14.7",
+    "currency": "BYN",
+    "fromTime": "14:47",
+    "toTime": "20:53",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2090f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20846"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20912"
+    },
+    "cost": "16.5",
+    "currency": "BYN",
+    "fromTime": "15:23",
+    "toTime": "21:29",
+    "duration": "6h 6m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20911"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20846"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20914"
+    },
+    "cost": "12.5",
+    "currency": "BYN",
+    "fromTime": "07:06",
+    "toTime": "10:33",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20913"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20847"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20916"
+    },
+    "cost": "13.5",
+    "currency": "BYN",
+    "fromTime": "07:52",
+    "toTime": "11:19",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20915"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20847"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20918"
+    },
+    "cost": "6.3",
+    "currency": "BYN",
+    "fromTime": "08:38",
+    "toTime": "12:05",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20917"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20847"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2091a"
+    },
+    "cost": "8.3",
+    "currency": "BYN",
+    "fromTime": "09:24",
+    "toTime": "12:51",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20919"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20847"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2091c"
+    },
+    "cost": "9.4",
+    "currency": "BYN",
+    "fromTime": "10:10",
+    "toTime": "13:37",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2091b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20847"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2091e"
+    },
+    "cost": "6.3",
+    "currency": "BYN",
+    "fromTime": "10:57",
+    "toTime": "14:24",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2091d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20847"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20920"
+    },
+    "cost": "9.4",
+    "currency": "BYN",
+    "fromTime": "11:43",
+    "toTime": "15:10",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2091f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20847"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20922"
+    },
+    "cost": "13.5",
+    "currency": "BYN",
+    "fromTime": "12:29",
+    "toTime": "15:56",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20921"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20847"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20924"
+    },
+    "cost": "8.3",
+    "currency": "BYN",
+    "fromTime": "13:15",
+    "toTime": "16:42",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20923"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20847"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20926"
+    },
+    "cost": "9.4",
+    "currency": "BYN",
+    "fromTime": "14:01",
+    "toTime": "17:28",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20925"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20847"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20928"
+    },
+    "cost": "9.4",
+    "currency": "BYN",
+    "fromTime": "14:48",
+    "toTime": "18:15",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20927"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20847"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2092a"
+    },
+    "cost": "6.3",
+    "currency": "BYN",
+    "fromTime": "15:34",
+    "toTime": "19:01",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20929"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20847"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2092c"
+    },
+    "cost": "9.4",
+    "currency": "BYN",
+    "fromTime": "16:20",
+    "toTime": "19:47",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2092b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20847"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2092e"
+    },
+    "cost": "8.3",
+    "currency": "BYN",
+    "fromTime": "17:06",
+    "toTime": "20:33",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2092d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20847"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20930"
+    },
+    "cost": "12.5",
+    "currency": "BYN",
+    "fromTime": "17:52",
+    "toTime": "21:19",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2092f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20847"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20932"
+    },
+    "cost": "8.9",
+    "currency": "BYN",
+    "fromTime": "08:42",
+    "toTime": "13:37",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20931"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20848"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20934"
+    },
+    "cost": "8.9",
+    "currency": "BYN",
+    "fromTime": "09:18",
+    "toTime": "14:13",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20933"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20848"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20936"
+    },
+    "cost": "13.3",
+    "currency": "BYN",
+    "fromTime": "09:54",
+    "toTime": "14:49",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20935"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20848"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20938"
+    },
+    "cost": "11.8",
+    "currency": "BYN",
+    "fromTime": "10:31",
+    "toTime": "15:26",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20937"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20848"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2093a"
+    },
+    "cost": "19.2",
+    "currency": "BYN",
+    "fromTime": "11:07",
+    "toTime": "16:02",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20939"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20848"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2093c"
+    },
+    "cost": "8.9",
+    "currency": "BYN",
+    "fromTime": "11:43",
+    "toTime": "16:38",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2093b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20848"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2093e"
+    },
+    "cost": "19.2",
+    "currency": "BYN",
+    "fromTime": "12:20",
+    "toTime": "17:15",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2093d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20848"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20940"
+    },
+    "cost": "10.4",
+    "currency": "BYN",
+    "fromTime": "12:56",
+    "toTime": "17:51",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2093f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20848"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20942"
+    },
+    "cost": "16.3",
+    "currency": "BYN",
+    "fromTime": "13:32",
+    "toTime": "18:27",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20941"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20848"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20944"
+    },
+    "cost": "10.4",
+    "currency": "BYN",
+    "fromTime": "14:09",
+    "toTime": "19:04",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20943"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20848"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20946"
+    },
+    "cost": "13.3",
+    "currency": "BYN",
+    "fromTime": "14:45",
+    "toTime": "19:40",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20945"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20848"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20948"
+    },
+    "cost": "16.3",
+    "currency": "BYN",
+    "fromTime": "15:21",
+    "toTime": "20:16",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20947"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20848"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2094a"
+    },
+    "cost": "11.8",
+    "currency": "BYN",
+    "fromTime": "15:58",
+    "toTime": "20:53",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20949"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20848"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2094c"
+    },
+    "cost": "8.9",
+    "currency": "BYN",
+    "fromTime": "16:34",
+    "toTime": "21:29",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2094b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20848"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2094e"
+    },
+    "cost": "11.8",
+    "currency": "BYN",
+    "fromTime": "17:10",
+    "toTime": "22:05",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2094d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20848"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20950"
+    },
+    "cost": "3.4",
+    "currency": "BYN",
+    "fromTime": "07:42",
+    "toTime": "09:17",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2094f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20849"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20952"
+    },
+    "cost": "5.7",
+    "currency": "BYN",
+    "fromTime": "08:35",
+    "toTime": "10:10",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20951"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20849"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20954"
+    },
+    "cost": "6.2",
+    "currency": "BYN",
+    "fromTime": "09:29",
+    "toTime": "11:04",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20953"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20849"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20956"
+    },
+    "cost": "3.4",
+    "currency": "BYN",
+    "fromTime": "10:23",
+    "toTime": "11:58",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20955"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20849"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20958"
+    },
+    "cost": "3.8",
+    "currency": "BYN",
+    "fromTime": "11:16",
+    "toTime": "12:51",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20957"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20849"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2095a"
+    },
+    "cost": "3.4",
+    "currency": "BYN",
+    "fromTime": "12:10",
+    "toTime": "13:45",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20959"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20849"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2095c"
+    },
+    "cost": "3.8",
+    "currency": "BYN",
+    "fromTime": "13:04",
+    "toTime": "14:39",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2095b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20849"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2095e"
+    },
+    "cost": "6.2",
+    "currency": "BYN",
+    "fromTime": "13:57",
+    "toTime": "15:32",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2095d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20849"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20960"
+    },
+    "cost": "6.2",
+    "currency": "BYN",
+    "fromTime": "14:51",
+    "toTime": "16:26",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2095f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20849"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20962"
+    },
+    "cost": "3.8",
+    "currency": "BYN",
+    "fromTime": "15:45",
+    "toTime": "17:20",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20961"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20849"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20964"
+    },
+    "cost": "3.8",
+    "currency": "BYN",
+    "fromTime": "16:38",
+    "toTime": "18:13",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20963"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20849"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20966"
+    },
+    "cost": "2.9",
+    "currency": "BYN",
+    "fromTime": "17:32",
+    "toTime": "19:07",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20965"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20849"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20968"
+    },
+    "cost": "3.8",
+    "currency": "BYN",
+    "fromTime": "18:26",
+    "toTime": "20:01",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20967"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20849"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2096a"
+    },
+    "cost": "3.8",
+    "currency": "BYN",
+    "fromTime": "19:19",
+    "toTime": "20:54",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20969"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20849"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2096c"
+    },
+    "cost": "6.2",
+    "currency": "BYN",
+    "fromTime": "20:13",
+    "toTime": "21:48",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2096b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20849"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2096e"
+    },
+    "cost": "8.2",
+    "currency": "BYN",
+    "fromTime": "06:46",
+    "toTime": "09:14",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2096d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20970"
+    },
+    "cost": "8.2",
+    "currency": "BYN",
+    "fromTime": "07:40",
+    "toTime": "10:08",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2096f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20972"
+    },
+    "cost": "6.7",
+    "currency": "BYN",
+    "fromTime": "08:34",
+    "toTime": "11:02",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20971"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20974"
+    },
+    "cost": "9.7",
+    "currency": "BYN",
+    "fromTime": "09:28",
+    "toTime": "11:56",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20973"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20976"
+    },
+    "cost": "5.2",
+    "currency": "BYN",
+    "fromTime": "10:22",
+    "toTime": "12:50",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20975"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20978"
+    },
+    "cost": "8.9",
+    "currency": "BYN",
+    "fromTime": "11:16",
+    "toTime": "13:44",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20977"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2097a"
+    },
+    "cost": "4.5",
+    "currency": "BYN",
+    "fromTime": "12:10",
+    "toTime": "14:38",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20979"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2097c"
+    },
+    "cost": "9.7",
+    "currency": "BYN",
+    "fromTime": "13:04",
+    "toTime": "15:32",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2097b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2097e"
+    },
+    "cost": "8.9",
+    "currency": "BYN",
+    "fromTime": "13:59",
+    "toTime": "16:27",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2097d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20980"
+    },
+    "cost": "6.7",
+    "currency": "BYN",
+    "fromTime": "14:53",
+    "toTime": "17:21",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2097f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20982"
+    },
+    "cost": "6",
+    "currency": "BYN",
+    "fromTime": "15:47",
+    "toTime": "18:15",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20981"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20984"
+    },
+    "cost": "9.7",
+    "currency": "BYN",
+    "fromTime": "16:41",
+    "toTime": "19:09",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20983"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20986"
+    },
+    "cost": "9.7",
+    "currency": "BYN",
+    "fromTime": "17:35",
+    "toTime": "20:03",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20985"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20988"
+    },
+    "cost": "6.7",
+    "currency": "BYN",
+    "fromTime": "18:29",
+    "toTime": "20:57",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20987"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2098a"
+    },
+    "cost": "6",
+    "currency": "BYN",
+    "fromTime": "19:23",
+    "toTime": "21:51",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20989"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2098c"
+    },
+    "cost": "20",
+    "currency": "BYN",
+    "fromTime": "06:08",
+    "toTime": "11:40",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2098b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2098e"
+    },
+    "cost": "13.3",
+    "currency": "BYN",
+    "fromTime": "06:49",
+    "toTime": "12:21",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2098d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20990"
+    },
+    "cost": "11.7",
+    "currency": "BYN",
+    "fromTime": "07:31",
+    "toTime": "13:03",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2098f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20992"
+    },
+    "cost": "21.6",
+    "currency": "BYN",
+    "fromTime": "08:13",
+    "toTime": "13:45",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20991"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20994"
+    },
+    "cost": "10",
+    "currency": "BYN",
+    "fromTime": "08:55",
+    "toTime": "14:27",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20993"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20996"
+    },
+    "cost": "10",
+    "currency": "BYN",
+    "fromTime": "09:37",
+    "toTime": "15:09",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20995"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20998"
+    },
+    "cost": "10",
+    "currency": "BYN",
+    "fromTime": "10:19",
+    "toTime": "15:51",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20997"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2099a"
+    },
+    "cost": "21.6",
+    "currency": "BYN",
+    "fromTime": "11:01",
+    "toTime": "16:33",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20999"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2099c"
+    },
+    "cost": "11.7",
+    "currency": "BYN",
+    "fromTime": "11:42",
+    "toTime": "17:14",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2099b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2099e"
+    },
+    "cost": "11.7",
+    "currency": "BYN",
+    "fromTime": "12:24",
+    "toTime": "17:56",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2099d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209a0"
+    },
+    "cost": "18.3",
+    "currency": "BYN",
+    "fromTime": "13:06",
+    "toTime": "18:38",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde2099f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209a2"
+    },
+    "cost": "21.6",
+    "currency": "BYN",
+    "fromTime": "13:48",
+    "toTime": "19:20",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209a1"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209a4"
+    },
+    "cost": "15",
+    "currency": "BYN",
+    "fromTime": "14:30",
+    "toTime": "20:02",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209a3"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209a6"
+    },
+    "cost": "13.3",
+    "currency": "BYN",
+    "fromTime": "15:12",
+    "toTime": "20:44",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209a5"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209a8"
+    },
+    "cost": "15",
+    "currency": "BYN",
+    "fromTime": "15:54",
+    "toTime": "21:26",
+    "duration": "5h 32m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209a7"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209aa"
+    },
+    "cost": "6.3",
+    "currency": "BYN",
+    "fromTime": "08:47",
+    "toTime": "12:14",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209a9"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209ac"
+    },
+    "cost": "7.3",
+    "currency": "BYN",
+    "fromTime": "09:29",
+    "toTime": "12:56",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209ab"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209ae"
+    },
+    "cost": "13.5",
+    "currency": "BYN",
+    "fromTime": "10:11",
+    "toTime": "13:38",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209ad"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209b0"
+    },
+    "cost": "11.4",
+    "currency": "BYN",
+    "fromTime": "10:53",
+    "toTime": "14:20",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209af"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209b2"
+    },
+    "cost": "8.3",
+    "currency": "BYN",
+    "fromTime": "11:35",
+    "toTime": "15:02",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209b1"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209b4"
+    },
+    "cost": "8.3",
+    "currency": "BYN",
+    "fromTime": "12:18",
+    "toTime": "15:45",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209b3"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209b6"
+    },
+    "cost": "13.5",
+    "currency": "BYN",
+    "fromTime": "13:00",
+    "toTime": "16:27",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209b5"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209b8"
+    },
+    "cost": "7.3",
+    "currency": "BYN",
+    "fromTime": "13:42",
+    "toTime": "17:09",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209b7"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209ba"
+    },
+    "cost": "7.3",
+    "currency": "BYN",
+    "fromTime": "14:24",
+    "toTime": "17:51",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209b9"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209bc"
+    },
+    "cost": "9.4",
+    "currency": "BYN",
+    "fromTime": "15:06",
+    "toTime": "18:33",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209bb"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209be"
+    },
+    "cost": "7.3",
+    "currency": "BYN",
+    "fromTime": "15:49",
+    "toTime": "19:16",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209bd"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209c0"
+    },
+    "cost": "13.5",
+    "currency": "BYN",
+    "fromTime": "16:31",
+    "toTime": "19:58",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209bf"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209c2"
+    },
+    "cost": "7.3",
+    "currency": "BYN",
+    "fromTime": "17:13",
+    "toTime": "20:40",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209c1"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209c4"
+    },
+    "cost": "7.3",
+    "currency": "BYN",
+    "fromTime": "17:55",
+    "toTime": "21:22",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209c3"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209c6"
+    },
+    "cost": "12.5",
+    "currency": "BYN",
+    "fromTime": "18:37",
+    "toTime": "22:04",
+    "duration": "3h 27m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209c5"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209c8"
+    },
+    "cost": "13.3",
+    "currency": "BYN",
+    "fromTime": "05:34",
+    "toTime": "11:05",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209c7"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209ca"
+    },
+    "cost": "14.9",
+    "currency": "BYN",
+    "fromTime": "06:19",
+    "toTime": "11:50",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209c9"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209cc"
+    },
+    "cost": "21.6",
+    "currency": "BYN",
+    "fromTime": "07:05",
+    "toTime": "12:36",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209cb"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209ce"
+    },
+    "cost": "21.6",
+    "currency": "BYN",
+    "fromTime": "07:51",
+    "toTime": "13:22",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209cd"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209d0"
+    },
+    "cost": "10",
+    "currency": "BYN",
+    "fromTime": "08:37",
+    "toTime": "14:08",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209cf"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209d2"
+    },
+    "cost": "10",
+    "currency": "BYN",
+    "fromTime": "09:23",
+    "toTime": "14:54",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209d1"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209d4"
+    },
+    "cost": "11.6",
+    "currency": "BYN",
+    "fromTime": "10:09",
+    "toTime": "15:40",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209d3"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209d6"
+    },
+    "cost": "21.6",
+    "currency": "BYN",
+    "fromTime": "10:55",
+    "toTime": "16:26",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209d5"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209d8"
+    },
+    "cost": "13.3",
+    "currency": "BYN",
+    "fromTime": "11:41",
+    "toTime": "17:12",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209d7"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209da"
+    },
+    "cost": "21.6",
+    "currency": "BYN",
+    "fromTime": "12:27",
+    "toTime": "17:58",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209d9"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209dc"
+    },
+    "cost": "21.6",
+    "currency": "BYN",
+    "fromTime": "13:13",
+    "toTime": "18:44",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209db"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209de"
+    },
+    "cost": "14.9",
+    "currency": "BYN",
+    "fromTime": "13:59",
+    "toTime": "19:30",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209dd"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209e0"
+    },
+    "cost": "21.6",
+    "currency": "BYN",
+    "fromTime": "14:45",
+    "toTime": "20:16",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209df"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209e2"
+    },
+    "cost": "10",
+    "currency": "BYN",
+    "fromTime": "15:31",
+    "toTime": "21:02",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209e1"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209e4"
+    },
+    "cost": "21.6",
+    "currency": "BYN",
+    "fromTime": "16:17",
+    "toTime": "21:48",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209e3"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209e6"
+    },
+    "cost": "5.1",
+    "currency": "BYN",
+    "fromTime": "05:07",
+    "toTime": "07:00",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209e5"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209e8"
+    },
+    "cost": "4",
+    "currency": "BYN",
+    "fromTime": "06:07",
+    "toTime": "08:00",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209e7"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209ea"
+    },
+    "cost": "7.4",
+    "currency": "BYN",
+    "fromTime": "07:07",
+    "toTime": "09:00",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209e9"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209ec"
+    },
+    "cost": "7.4",
+    "currency": "BYN",
+    "fromTime": "08:08",
+    "toTime": "10:01",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209eb"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209ee"
+    },
+    "cost": "4",
+    "currency": "BYN",
+    "fromTime": "09:08",
+    "toTime": "11:01",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209ed"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209f0"
+    },
+    "cost": "5.1",
+    "currency": "BYN",
+    "fromTime": "10:09",
+    "toTime": "12:02",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209ef"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209f2"
+    },
+    "cost": "5.1",
+    "currency": "BYN",
+    "fromTime": "11:09",
+    "toTime": "13:02",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209f1"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209f4"
+    },
+    "cost": "4.6",
+    "currency": "BYN",
+    "fromTime": "12:10",
+    "toTime": "14:03",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209f3"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209f6"
+    },
+    "cost": "7.4",
+    "currency": "BYN",
+    "fromTime": "13:10",
+    "toTime": "15:03",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209f5"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209f8"
+    },
+    "cost": "5.1",
+    "currency": "BYN",
+    "fromTime": "14:11",
+    "toTime": "16:04",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209f7"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209fa"
+    },
+    "cost": "7.4",
+    "currency": "BYN",
+    "fromTime": "15:11",
+    "toTime": "17:04",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209f9"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209fc"
+    },
+    "cost": "7.4",
+    "currency": "BYN",
+    "fromTime": "16:12",
+    "toTime": "18:05",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209fb"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209fe"
+    },
+    "cost": "3.4",
+    "currency": "BYN",
+    "fromTime": "17:12",
+    "toTime": "19:05",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209fd"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a00"
+    },
+    "cost": "3.4",
+    "currency": "BYN",
+    "fromTime": "18:13",
+    "toTime": "20:06",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde209ff"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a02"
+    },
+    "cost": "6.8",
+    "currency": "BYN",
+    "fromTime": "19:13",
+    "toTime": "21:06",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a01"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a04"
+    },
+    "cost": "7.5",
+    "currency": "BYN",
+    "fromTime": "07:45",
+    "toTime": "10:52",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a03"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a06"
+    },
+    "cost": "12.2",
+    "currency": "BYN",
+    "fromTime": "08:32",
+    "toTime": "11:39",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a05"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a08"
+    },
+    "cost": "7.5",
+    "currency": "BYN",
+    "fromTime": "09:20",
+    "toTime": "12:27",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a07"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a0a"
+    },
+    "cost": "7.5",
+    "currency": "BYN",
+    "fromTime": "10:07",
+    "toTime": "13:14",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a09"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a0c"
+    },
+    "cost": "12.2",
+    "currency": "BYN",
+    "fromTime": "10:55",
+    "toTime": "14:02",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a0b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a0e"
+    },
+    "cost": "8.5",
+    "currency": "BYN",
+    "fromTime": "11:42",
+    "toTime": "14:49",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a0d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a10"
+    },
+    "cost": "12.2",
+    "currency": "BYN",
+    "fromTime": "12:30",
+    "toTime": "15:37",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a0f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a12"
+    },
+    "cost": "8.5",
+    "currency": "BYN",
+    "fromTime": "13:17",
+    "toTime": "16:24",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a11"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a14"
+    },
+    "cost": "7.5",
+    "currency": "BYN",
+    "fromTime": "14:05",
+    "toTime": "17:12",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a13"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a16"
+    },
+    "cost": "6.6",
+    "currency": "BYN",
+    "fromTime": "14:52",
+    "toTime": "17:59",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a15"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a18"
+    },
+    "cost": "12.2",
+    "currency": "BYN",
+    "fromTime": "15:40",
+    "toTime": "18:47",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a17"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a1a"
+    },
+    "cost": "5.7",
+    "currency": "BYN",
+    "fromTime": "16:27",
+    "toTime": "19:34",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a19"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a1c"
+    },
+    "cost": "8.5",
+    "currency": "BYN",
+    "fromTime": "17:15",
+    "toTime": "20:22",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a1b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a1e"
+    },
+    "cost": "7.5",
+    "currency": "BYN",
+    "fromTime": "18:02",
+    "toTime": "21:09",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a1d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a20"
+    },
+    "cost": "12.2",
+    "currency": "BYN",
+    "fromTime": "18:50",
+    "toTime": "21:57",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a1f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2084f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a22"
+    },
+    "cost": "3.6",
+    "currency": "BYN",
+    "fromTime": "07:24",
+    "toTime": "09:21",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a21"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20850"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a24"
+    },
+    "cost": "4.7",
+    "currency": "BYN",
+    "fromTime": "08:16",
+    "toTime": "10:13",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a23"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20850"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a26"
+    },
+    "cost": "4.7",
+    "currency": "BYN",
+    "fromTime": "09:08",
+    "toTime": "11:05",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a25"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20850"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a28"
+    },
+    "cost": "4.7",
+    "currency": "BYN",
+    "fromTime": "10:00",
+    "toTime": "11:57",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a27"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20850"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a2a"
+    },
+    "cost": "4.7",
+    "currency": "BYN",
+    "fromTime": "10:52",
+    "toTime": "12:49",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a29"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20850"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a2c"
+    },
+    "cost": "4.7",
+    "currency": "BYN",
+    "fromTime": "11:45",
+    "toTime": "13:42",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a2b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20850"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a2e"
+    },
+    "cost": "4.1",
+    "currency": "BYN",
+    "fromTime": "12:37",
+    "toTime": "14:34",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a2d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20850"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a30"
+    },
+    "cost": "7.1",
+    "currency": "BYN",
+    "fromTime": "13:29",
+    "toTime": "15:26",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a2f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20850"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a32"
+    },
+    "cost": "7.1",
+    "currency": "BYN",
+    "fromTime": "14:21",
+    "toTime": "16:18",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a31"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20850"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a34"
+    },
+    "cost": "7.7",
+    "currency": "BYN",
+    "fromTime": "15:13",
+    "toTime": "17:10",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a33"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20850"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a36"
+    },
+    "cost": "4.1",
+    "currency": "BYN",
+    "fromTime": "16:06",
+    "toTime": "18:03",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a35"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20850"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a38"
+    },
+    "cost": "7.1",
+    "currency": "BYN",
+    "fromTime": "16:58",
+    "toTime": "18:55",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a37"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20850"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a3a"
+    },
+    "cost": "5.3",
+    "currency": "BYN",
+    "fromTime": "17:50",
+    "toTime": "19:47",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a39"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20850"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a3c"
+    },
+    "cost": "7.1",
+    "currency": "BYN",
+    "fromTime": "18:42",
+    "toTime": "20:39",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a3b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20850"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a3e"
+    },
+    "cost": "7.1",
+    "currency": "BYN",
+    "fromTime": "19:34",
+    "toTime": "21:31",
+    "duration": "1h 57m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a3d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20850"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a40"
+    },
+    "cost": "19.2",
+    "currency": "BYN",
+    "fromTime": "05:31",
+    "toTime": "10:26",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a3f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20851"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a42"
+    },
+    "cost": "10.4",
+    "currency": "BYN",
+    "fromTime": "06:19",
+    "toTime": "11:14",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a41"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20851"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a44"
+    },
+    "cost": "19.2",
+    "currency": "BYN",
+    "fromTime": "07:07",
+    "toTime": "12:02",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a43"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20851"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a46"
+    },
+    "cost": "13.3",
+    "currency": "BYN",
+    "fromTime": "07:56",
+    "toTime": "12:51",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a45"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20851"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a48"
+    },
+    "cost": "19.2",
+    "currency": "BYN",
+    "fromTime": "08:44",
+    "toTime": "13:39",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a47"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20851"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a4a"
+    },
+    "cost": "11.8",
+    "currency": "BYN",
+    "fromTime": "09:32",
+    "toTime": "14:27",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a49"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20851"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a4c"
+    },
+    "cost": "16.3",
+    "currency": "BYN",
+    "fromTime": "10:21",
+    "toTime": "15:16",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a4b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20851"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a4e"
+    },
+    "cost": "8.9",
+    "currency": "BYN",
+    "fromTime": "11:09",
+    "toTime": "16:04",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a4d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20851"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a50"
+    },
+    "cost": "17.7",
+    "currency": "BYN",
+    "fromTime": "11:57",
+    "toTime": "16:52",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a4f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20851"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a52"
+    },
+    "cost": "10.4",
+    "currency": "BYN",
+    "fromTime": "12:46",
+    "toTime": "17:41",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a51"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20851"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a54"
+    },
+    "cost": "13.3",
+    "currency": "BYN",
+    "fromTime": "13:34",
+    "toTime": "18:29",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a53"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20851"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a56"
+    },
+    "cost": "19.2",
+    "currency": "BYN",
+    "fromTime": "14:22",
+    "toTime": "19:17",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a55"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20851"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a58"
+    },
+    "cost": "19.2",
+    "currency": "BYN",
+    "fromTime": "15:11",
+    "toTime": "20:06",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a57"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20851"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a5a"
+    },
+    "cost": "17.7",
+    "currency": "BYN",
+    "fromTime": "15:59",
+    "toTime": "20:54",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a59"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20851"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a5c"
+    },
+    "cost": "17.7",
+    "currency": "BYN",
+    "fromTime": "16:47",
+    "toTime": "21:42",
+    "duration": "4h 55m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a5b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20851"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a5e"
+    },
+    "cost": "19.9",
+    "currency": "BYN",
+    "fromTime": "07:53",
+    "toTime": "13:24",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a5d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20852"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a60"
+    },
+    "cost": "10",
+    "currency": "BYN",
+    "fromTime": "08:30",
+    "toTime": "14:01",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a5f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20852"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a62"
+    },
+    "cost": "13.3",
+    "currency": "BYN",
+    "fromTime": "09:08",
+    "toTime": "14:39",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a61"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20852"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a64"
+    },
+    "cost": "11.6",
+    "currency": "BYN",
+    "fromTime": "09:46",
+    "toTime": "15:17",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a63"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20852"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a66"
+    },
+    "cost": "11.6",
+    "currency": "BYN",
+    "fromTime": "10:24",
+    "toTime": "15:55",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a65"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20852"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a68"
+    },
+    "cost": "10",
+    "currency": "BYN",
+    "fromTime": "11:02",
+    "toTime": "16:33",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a67"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20852"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a6a"
+    },
+    "cost": "11.6",
+    "currency": "BYN",
+    "fromTime": "11:40",
+    "toTime": "17:11",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a69"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20852"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a6c"
+    },
+    "cost": "21.6",
+    "currency": "BYN",
+    "fromTime": "12:18",
+    "toTime": "17:49",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a6b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20852"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a6e"
+    },
+    "cost": "21.6",
+    "currency": "BYN",
+    "fromTime": "12:56",
+    "toTime": "18:27",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a6d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20852"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a70"
+    },
+    "cost": "21.6",
+    "currency": "BYN",
+    "fromTime": "13:34",
+    "toTime": "19:05",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a6f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20852"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a72"
+    },
+    "cost": "14.9",
+    "currency": "BYN",
+    "fromTime": "14:12",
+    "toTime": "19:43",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a71"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20852"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a74"
+    },
+    "cost": "13.3",
+    "currency": "BYN",
+    "fromTime": "14:50",
+    "toTime": "20:21",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a73"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20852"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a76"
+    },
+    "cost": "21.6",
+    "currency": "BYN",
+    "fromTime": "15:28",
+    "toTime": "20:59",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a75"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20852"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a78"
+    },
+    "cost": "13.3",
+    "currency": "BYN",
+    "fromTime": "16:06",
+    "toTime": "21:37",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a77"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20852"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a7a"
+    },
+    "cost": "11.6",
+    "currency": "BYN",
+    "fromTime": "16:44",
+    "toTime": "22:15",
+    "duration": "5h 31m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a79"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20852"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a7c"
+    },
+    "cost": "10",
+    "currency": "BYN",
+    "fromTime": "06:35",
+    "toTime": "11:20",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a7b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20853"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a7e"
+    },
+    "cost": "11.4",
+    "currency": "BYN",
+    "fromTime": "07:20",
+    "toTime": "12:05",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a7d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20853"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a80"
+    },
+    "cost": "8.6",
+    "currency": "BYN",
+    "fromTime": "08:05",
+    "toTime": "12:50",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a7f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20853"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a82"
+    },
+    "cost": "11.4",
+    "currency": "BYN",
+    "fromTime": "08:50",
+    "toTime": "13:35",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a81"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20853"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a84"
+    },
+    "cost": "18.6",
+    "currency": "BYN",
+    "fromTime": "09:35",
+    "toTime": "14:20",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a83"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20853"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a86"
+    },
+    "cost": "18.6",
+    "currency": "BYN",
+    "fromTime": "10:20",
+    "toTime": "15:05",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a85"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20853"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a88"
+    },
+    "cost": "8.6",
+    "currency": "BYN",
+    "fromTime": "11:05",
+    "toTime": "15:50",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a87"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20853"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a8a"
+    },
+    "cost": "18.6",
+    "currency": "BYN",
+    "fromTime": "11:50",
+    "toTime": "16:35",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a89"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20853"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a8c"
+    },
+    "cost": "10",
+    "currency": "BYN",
+    "fromTime": "12:35",
+    "toTime": "17:20",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a8b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20853"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a8e"
+    },
+    "cost": "12.9",
+    "currency": "BYN",
+    "fromTime": "13:20",
+    "toTime": "18:05",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a8d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20853"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a90"
+    },
+    "cost": "18.6",
+    "currency": "BYN",
+    "fromTime": "14:05",
+    "toTime": "18:50",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a8f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20853"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a92"
+    },
+    "cost": "18.6",
+    "currency": "BYN",
+    "fromTime": "14:50",
+    "toTime": "19:35",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a91"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20853"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a94"
+    },
+    "cost": "12.9",
+    "currency": "BYN",
+    "fromTime": "15:35",
+    "toTime": "20:20",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a93"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20853"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a96"
+    },
+    "cost": "15.7",
+    "currency": "BYN",
+    "fromTime": "16:20",
+    "toTime": "21:05",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a95"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20853"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a98"
+    },
+    "cost": "11.4",
+    "currency": "BYN",
+    "fromTime": "17:05",
+    "toTime": "21:50",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a97"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20853"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a9a"
+    },
+    "cost": "7.4",
+    "currency": "BYN",
+    "fromTime": "06:16",
+    "toTime": "08:59",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a99"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20854"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a9c"
+    },
+    "cost": "4.9",
+    "currency": "BYN",
+    "fromTime": "07:09",
+    "toTime": "09:52",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a9b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20854"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a9e"
+    },
+    "cost": "10.6",
+    "currency": "BYN",
+    "fromTime": "08:02",
+    "toTime": "10:45",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a9d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20854"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20aa0"
+    },
+    "cost": "5.8",
+    "currency": "BYN",
+    "fromTime": "08:55",
+    "toTime": "11:38",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20a9f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20854"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20aa2"
+    },
+    "cost": "5.8",
+    "currency": "BYN",
+    "fromTime": "09:48",
+    "toTime": "12:31",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20aa1"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20854"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20aa4"
+    },
+    "cost": "7.4",
+    "currency": "BYN",
+    "fromTime": "10:41",
+    "toTime": "13:24",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20aa3"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20854"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20aa6"
+    },
+    "cost": "10.6",
+    "currency": "BYN",
+    "fromTime": "11:34",
+    "toTime": "14:17",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20aa5"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20854"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20aa8"
+    },
+    "cost": "5.8",
+    "currency": "BYN",
+    "fromTime": "12:27",
+    "toTime": "15:10",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20aa7"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20854"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20aaa"
+    },
+    "cost": "4.9",
+    "currency": "BYN",
+    "fromTime": "13:21",
+    "toTime": "16:04",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20aa9"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20854"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20aac"
+    },
+    "cost": "9",
+    "currency": "BYN",
+    "fromTime": "14:14",
+    "toTime": "16:57",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20aab"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20854"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20aae"
+    },
+    "cost": "5.8",
+    "currency": "BYN",
+    "fromTime": "15:07",
+    "toTime": "17:50",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20aad"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20854"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ab0"
+    },
+    "cost": "5.8",
+    "currency": "BYN",
+    "fromTime": "16:00",
+    "toTime": "18:43",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20aaf"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20854"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ab2"
+    },
+    "cost": "4.9",
+    "currency": "BYN",
+    "fromTime": "16:53",
+    "toTime": "19:36",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20ab1"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20854"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ab4"
+    },
+    "cost": "4.9",
+    "currency": "BYN",
+    "fromTime": "17:46",
+    "toTime": "20:29",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20ab3"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20854"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ab6"
+    },
+    "cost": "10.6",
+    "currency": "BYN",
+    "fromTime": "18:39",
+    "toTime": "21:22",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20ab5"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20854"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ab8"
+    },
+    "cost": "14.7",
+    "currency": "BYN",
+    "fromTime": "07:14",
+    "toTime": "12:40",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20ab7"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20855"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20aba"
+    },
+    "cost": "11.5",
+    "currency": "BYN",
+    "fromTime": "07:52",
+    "toTime": "13:18",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20ab9"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20855"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20abc"
+    },
+    "cost": "21.2",
+    "currency": "BYN",
+    "fromTime": "08:30",
+    "toTime": "13:56",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20abb"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20855"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20abe"
+    },
+    "cost": "21.2",
+    "currency": "BYN",
+    "fromTime": "09:08",
+    "toTime": "14:34",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20abd"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20855"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ac0"
+    },
+    "cost": "14.7",
+    "currency": "BYN",
+    "fromTime": "09:47",
+    "toTime": "15:13",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20abf"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20855"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ac2"
+    },
+    "cost": "19.6",
+    "currency": "BYN",
+    "fromTime": "10:25",
+    "toTime": "15:51",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20ac1"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20855"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ac4"
+    },
+    "cost": "9.8",
+    "currency": "BYN",
+    "fromTime": "11:03",
+    "toTime": "16:29",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20ac3"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20855"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ac6"
+    },
+    "cost": "21.2",
+    "currency": "BYN",
+    "fromTime": "11:41",
+    "toTime": "17:07",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20ac5"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20855"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ac8"
+    },
+    "cost": "11.5",
+    "currency": "BYN",
+    "fromTime": "12:20",
+    "toTime": "17:46",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20ac7"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20855"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20aca"
+    },
+    "cost": "21.2",
+    "currency": "BYN",
+    "fromTime": "12:58",
+    "toTime": "18:24",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20ac9"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20855"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20acc"
+    },
+    "cost": "21.2",
+    "currency": "BYN",
+    "fromTime": "13:36",
+    "toTime": "19:02",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20acb"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20855"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ace"
+    },
+    "cost": "21.2",
+    "currency": "BYN",
+    "fromTime": "14:14",
+    "toTime": "19:40",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20acd"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20855"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ad0"
+    },
+    "cost": "9.8",
+    "currency": "BYN",
+    "fromTime": "14:53",
+    "toTime": "20:19",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20acf"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20855"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ad2"
+    },
+    "cost": "21.2",
+    "currency": "BYN",
+    "fromTime": "15:31",
+    "toTime": "20:57",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20ad1"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20855"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ad4"
+    },
+    "cost": "13.1",
+    "currency": "BYN",
+    "fromTime": "16:09",
+    "toTime": "21:35",
+    "duration": "5h 26m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20ad3"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20855"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ad6"
+    },
+    "cost": "2.9",
+    "currency": "BYN",
+    "fromTime": "08:18",
+    "toTime": "09:53",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20ad5"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20856"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ad8"
+    },
+    "cost": "3.4",
+    "currency": "BYN",
+    "fromTime": "09:07",
+    "toTime": "10:42",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20ad7"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20856"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ada"
+    },
+    "cost": "2.9",
+    "currency": "BYN",
+    "fromTime": "09:57",
+    "toTime": "11:32",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20ad9"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20856"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20adc"
+    },
+    "cost": "6.2",
+    "currency": "BYN",
+    "fromTime": "10:47",
+    "toTime": "12:22",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20adb"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20856"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ade"
+    },
+    "cost": "2.9",
+    "currency": "BYN",
+    "fromTime": "11:36",
+    "toTime": "13:11",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20add"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20856"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ae0"
+    },
+    "cost": "5.7",
+    "currency": "BYN",
+    "fromTime": "12:26",
+    "toTime": "14:01",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20adf"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20856"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ae2"
+    },
+    "cost": "6.2",
+    "currency": "BYN",
+    "fromTime": "13:16",
+    "toTime": "14:51",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20ae1"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20856"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ae4"
+    },
+    "cost": "3.8",
+    "currency": "BYN",
+    "fromTime": "14:05",
+    "toTime": "15:40",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20ae3"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20856"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ae6"
+    },
+    "cost": "5.7",
+    "currency": "BYN",
+    "fromTime": "14:55",
+    "toTime": "16:30",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20ae5"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20856"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ae8"
+    },
+    "cost": "2.9",
+    "currency": "BYN",
+    "fromTime": "15:45",
+    "toTime": "17:20",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20ae7"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20856"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20aea"
+    },
+    "cost": "3.8",
+    "currency": "BYN",
+    "fromTime": "16:34",
+    "toTime": "18:09",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20ae9"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20856"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20aec"
+    },
+    "cost": "4.3",
+    "currency": "BYN",
+    "fromTime": "17:24",
+    "toTime": "18:59",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20aeb"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20856"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20aee"
+    },
+    "cost": "4.3",
+    "currency": "BYN",
+    "fromTime": "18:14",
+    "toTime": "19:49",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20aed"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20856"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20af0"
+    },
+    "cost": "2.9",
+    "currency": "BYN",
+    "fromTime": "19:03",
+    "toTime": "20:38",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20aef"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20856"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20af2"
+    },
+    "cost": "4.3",
+    "currency": "BYN",
+    "fromTime": "19:53",
+    "toTime": "21:28",
+    "duration": "1h 35m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20af1"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20856"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20af4"
+    },
+    "cost": "4.6",
+    "currency": "BYN",
+    "fromTime": "07:11",
+    "toTime": "09:04",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20af3"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20857"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20af6"
+    },
+    "cost": "7.4",
+    "currency": "BYN",
+    "fromTime": "08:03",
+    "toTime": "09:56",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20af5"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20857"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20af8"
+    },
+    "cost": "7.4",
+    "currency": "BYN",
+    "fromTime": "08:55",
+    "toTime": "10:48",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20af7"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20857"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20afa"
+    },
+    "cost": "6.3",
+    "currency": "BYN",
+    "fromTime": "09:48",
+    "toTime": "11:41",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20af9"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20857"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20afc"
+    },
+    "cost": "4.6",
+    "currency": "BYN",
+    "fromTime": "10:40",
+    "toTime": "12:33",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20afb"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20857"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20afe"
+    },
+    "cost": "3.4",
+    "currency": "BYN",
+    "fromTime": "11:33",
+    "toTime": "13:26",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20afd"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20857"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b00"
+    },
+    "cost": "7.4",
+    "currency": "BYN",
+    "fromTime": "12:25",
+    "toTime": "14:18",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20aff"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20857"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b02"
+    },
+    "cost": "4.6",
+    "currency": "BYN",
+    "fromTime": "13:18",
+    "toTime": "15:11",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b01"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20857"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b04"
+    },
+    "cost": "3.4",
+    "currency": "BYN",
+    "fromTime": "14:10",
+    "toTime": "16:03",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b03"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20857"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b06"
+    },
+    "cost": "5.1",
+    "currency": "BYN",
+    "fromTime": "15:03",
+    "toTime": "16:56",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b05"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20857"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b08"
+    },
+    "cost": "4.6",
+    "currency": "BYN",
+    "fromTime": "15:55",
+    "toTime": "17:48",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b07"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20857"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b0a"
+    },
+    "cost": "4.6",
+    "currency": "BYN",
+    "fromTime": "16:48",
+    "toTime": "18:41",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b09"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20857"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b0c"
+    },
+    "cost": "7.4",
+    "currency": "BYN",
+    "fromTime": "17:40",
+    "toTime": "19:33",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b0b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20857"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b0e"
+    },
+    "cost": "5.1",
+    "currency": "BYN",
+    "fromTime": "18:33",
+    "toTime": "20:26",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b0d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20857"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b10"
+    },
+    "cost": "5.1",
+    "currency": "BYN",
+    "fromTime": "19:25",
+    "toTime": "21:18",
+    "duration": "1h 53m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b0f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20857"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b12"
+    },
+    "cost": "17.1",
+    "currency": "BYN",
+    "fromTime": "07:16",
+    "toTime": "12:01",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b11"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20858"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b14"
+    },
+    "cost": "10",
+    "currency": "BYN",
+    "fromTime": "07:57",
+    "toTime": "12:42",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b13"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20858"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b16"
+    },
+    "cost": "17.1",
+    "currency": "BYN",
+    "fromTime": "08:38",
+    "toTime": "13:23",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b15"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20858"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b18"
+    },
+    "cost": "10",
+    "currency": "BYN",
+    "fromTime": "09:19",
+    "toTime": "14:04",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b17"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20858"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b1a"
+    },
+    "cost": "12.9",
+    "currency": "BYN",
+    "fromTime": "10:00",
+    "toTime": "14:45",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b19"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20858"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b1c"
+    },
+    "cost": "12.9",
+    "currency": "BYN",
+    "fromTime": "10:41",
+    "toTime": "15:26",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b1b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20858"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b1e"
+    },
+    "cost": "18.6",
+    "currency": "BYN",
+    "fromTime": "11:22",
+    "toTime": "16:07",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b1d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20858"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b20"
+    },
+    "cost": "18.6",
+    "currency": "BYN",
+    "fromTime": "12:03",
+    "toTime": "16:48",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b1f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20858"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b22"
+    },
+    "cost": "11.4",
+    "currency": "BYN",
+    "fromTime": "12:44",
+    "toTime": "17:29",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b21"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20858"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b24"
+    },
+    "cost": "15.7",
+    "currency": "BYN",
+    "fromTime": "13:25",
+    "toTime": "18:10",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b23"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20858"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b26"
+    },
+    "cost": "8.6",
+    "currency": "BYN",
+    "fromTime": "14:06",
+    "toTime": "18:51",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b25"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20858"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b28"
+    },
+    "cost": "12.9",
+    "currency": "BYN",
+    "fromTime": "14:47",
+    "toTime": "19:32",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b27"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20858"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b2a"
+    },
+    "cost": "12.9",
+    "currency": "BYN",
+    "fromTime": "15:28",
+    "toTime": "20:13",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b29"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20858"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b2c"
+    },
+    "cost": "18.6",
+    "currency": "BYN",
+    "fromTime": "16:09",
+    "toTime": "20:54",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b2b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20858"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b2e"
+    },
+    "cost": "12.9",
+    "currency": "BYN",
+    "fromTime": "16:50",
+    "toTime": "21:35",
+    "duration": "4h 45m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b2d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20858"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b30"
+    },
+    "cost": "6.7",
+    "currency": "BYN",
+    "fromTime": "06:25",
+    "toTime": "08:26",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b2f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20859"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b32"
+    },
+    "cost": "5.5",
+    "currency": "BYN",
+    "fromTime": "07:20",
+    "toTime": "09:21",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b31"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20859"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b34"
+    },
+    "cost": "3.7",
+    "currency": "BYN",
+    "fromTime": "08:16",
+    "toTime": "10:17",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b33"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20859"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b36"
+    },
+    "cost": "7.9",
+    "currency": "BYN",
+    "fromTime": "09:12",
+    "toTime": "11:13",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b35"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20859"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b38"
+    },
+    "cost": "4.3",
+    "currency": "BYN",
+    "fromTime": "10:08",
+    "toTime": "12:09",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b37"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20859"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b3a"
+    },
+    "cost": "4.3",
+    "currency": "BYN",
+    "fromTime": "11:04",
+    "toTime": "13:05",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b39"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20859"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b3c"
+    },
+    "cost": "5.5",
+    "currency": "BYN",
+    "fromTime": "12:00",
+    "toTime": "14:01",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b3b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20859"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b3e"
+    },
+    "cost": "3.7",
+    "currency": "BYN",
+    "fromTime": "12:56",
+    "toTime": "14:57",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b3d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20859"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b40"
+    },
+    "cost": "5.5",
+    "currency": "BYN",
+    "fromTime": "13:52",
+    "toTime": "15:53",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b3f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20859"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b42"
+    },
+    "cost": "5.5",
+    "currency": "BYN",
+    "fromTime": "14:48",
+    "toTime": "16:49",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b41"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20859"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b44"
+    },
+    "cost": "7.3",
+    "currency": "BYN",
+    "fromTime": "15:44",
+    "toTime": "17:45",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b43"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20859"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b46"
+    },
+    "cost": "7.9",
+    "currency": "BYN",
+    "fromTime": "16:40",
+    "toTime": "18:41",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b45"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20859"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b48"
+    },
+    "cost": "7.9",
+    "currency": "BYN",
+    "fromTime": "17:36",
+    "toTime": "19:37",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b47"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20859"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b4a"
+    },
+    "cost": "7.9",
+    "currency": "BYN",
+    "fromTime": "18:32",
+    "toTime": "20:33",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b49"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20859"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b4c"
+    },
+    "cost": "4.3",
+    "currency": "BYN",
+    "fromTime": "19:28",
+    "toTime": "21:29",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b4b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde20859"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b4e"
+    },
+    "cost": "8.7",
+    "currency": "BYN",
+    "fromTime": "07:34",
+    "toTime": "11:11",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b4d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b50"
+    },
+    "cost": "14.2",
+    "currency": "BYN",
+    "fromTime": "08:19",
+    "toTime": "11:56",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b4f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b52"
+    },
+    "cost": "6.6",
+    "currency": "BYN",
+    "fromTime": "09:05",
+    "toTime": "12:42",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b51"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b54"
+    },
+    "cost": "9.8",
+    "currency": "BYN",
+    "fromTime": "09:50",
+    "toTime": "13:27",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b53"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b56"
+    },
+    "cost": "6.6",
+    "currency": "BYN",
+    "fromTime": "10:36",
+    "toTime": "14:13",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b55"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b58"
+    },
+    "cost": "14.2",
+    "currency": "BYN",
+    "fromTime": "11:21",
+    "toTime": "14:58",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b57"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b5a"
+    },
+    "cost": "9.8",
+    "currency": "BYN",
+    "fromTime": "12:07",
+    "toTime": "15:44",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b59"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b5c"
+    },
+    "cost": "7.6",
+    "currency": "BYN",
+    "fromTime": "12:52",
+    "toTime": "16:29",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b5b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b5e"
+    },
+    "cost": "7.6",
+    "currency": "BYN",
+    "fromTime": "13:38",
+    "toTime": "17:15",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b5d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b60"
+    },
+    "cost": "9.8",
+    "currency": "BYN",
+    "fromTime": "14:23",
+    "toTime": "18:00",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b5f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b62"
+    },
+    "cost": "6.6",
+    "currency": "BYN",
+    "fromTime": "15:09",
+    "toTime": "18:46",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b61"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b64"
+    },
+    "cost": "6.6",
+    "currency": "BYN",
+    "fromTime": "15:54",
+    "toTime": "19:31",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b63"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b66"
+    },
+    "cost": "13.1",
+    "currency": "BYN",
+    "fromTime": "16:40",
+    "toTime": "20:17",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b65"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b68"
+    },
+    "cost": "13.1",
+    "currency": "BYN",
+    "fromTime": "17:25",
+    "toTime": "21:02",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b67"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b6a"
+    },
+    "cost": "8.7",
+    "currency": "BYN",
+    "fromTime": "18:11",
+    "toTime": "21:48",
+    "duration": "3h 37m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b69"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b6c"
+    },
+    "cost": "9.7",
+    "currency": "BYN",
+    "fromTime": "05:49",
+    "toTime": "08:17",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b6b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b6e"
+    },
+    "cost": "4.5",
+    "currency": "BYN",
+    "fromTime": "06:47",
+    "toTime": "09:15",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b6d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b70"
+    },
+    "cost": "9.7",
+    "currency": "BYN",
+    "fromTime": "07:45",
+    "toTime": "10:13",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b6f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b72"
+    },
+    "cost": "6.7",
+    "currency": "BYN",
+    "fromTime": "08:43",
+    "toTime": "11:11",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b71"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b74"
+    },
+    "cost": "9.7",
+    "currency": "BYN",
+    "fromTime": "09:41",
+    "toTime": "12:09",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b73"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b76"
+    },
+    "cost": "4.5",
+    "currency": "BYN",
+    "fromTime": "10:39",
+    "toTime": "13:07",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b75"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b78"
+    },
+    "cost": "6",
+    "currency": "BYN",
+    "fromTime": "11:37",
+    "toTime": "14:05",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b77"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b7a"
+    },
+    "cost": "4.5",
+    "currency": "BYN",
+    "fromTime": "12:35",
+    "toTime": "15:03",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b79"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b7c"
+    },
+    "cost": "6.7",
+    "currency": "BYN",
+    "fromTime": "13:34",
+    "toTime": "16:02",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b7b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b7e"
+    },
+    "cost": "8.9",
+    "currency": "BYN",
+    "fromTime": "14:32",
+    "toTime": "17:00",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b7d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b80"
+    },
+    "cost": "6",
+    "currency": "BYN",
+    "fromTime": "15:30",
+    "toTime": "17:58",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b7f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b82"
+    },
+    "cost": "6.7",
+    "currency": "BYN",
+    "fromTime": "16:28",
+    "toTime": "18:56",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b81"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b84"
+    },
+    "cost": "6",
+    "currency": "BYN",
+    "fromTime": "17:26",
+    "toTime": "19:54",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b83"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b86"
+    },
+    "cost": "9.7",
+    "currency": "BYN",
+    "fromTime": "18:24",
+    "toTime": "20:52",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b85"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b88"
+    },
+    "cost": "5.2",
+    "currency": "BYN",
+    "fromTime": "19:22",
+    "toTime": "21:50",
+    "duration": "2h 28m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b87"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b8a"
+    },
+    "cost": "12.2",
+    "currency": "BYN",
+    "fromTime": "07:20",
+    "toTime": "10:27",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b89"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b8c"
+    },
+    "cost": "6.6",
+    "currency": "BYN",
+    "fromTime": "08:07",
+    "toTime": "11:14",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b8b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b8e"
+    },
+    "cost": "12.2",
+    "currency": "BYN",
+    "fromTime": "08:55",
+    "toTime": "12:02",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b8d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b90"
+    },
+    "cost": "11.3",
+    "currency": "BYN",
+    "fromTime": "09:42",
+    "toTime": "12:49",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b8f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b92"
+    },
+    "cost": "7.5",
+    "currency": "BYN",
+    "fromTime": "10:30",
+    "toTime": "13:37",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b91"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b94"
+    },
+    "cost": "11.3",
+    "currency": "BYN",
+    "fromTime": "11:17",
+    "toTime": "14:24",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b93"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b96"
+    },
+    "cost": "8.5",
+    "currency": "BYN",
+    "fromTime": "12:05",
+    "toTime": "15:12",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b95"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b98"
+    },
+    "cost": "5.7",
+    "currency": "BYN",
+    "fromTime": "12:52",
+    "toTime": "15:59",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b97"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b9a"
+    },
+    "cost": "8.5",
+    "currency": "BYN",
+    "fromTime": "13:40",
+    "toTime": "16:47",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b99"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b9c"
+    },
+    "cost": "12.2",
+    "currency": "BYN",
+    "fromTime": "14:27",
+    "toTime": "17:34",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b9b"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b9e"
+    },
+    "cost": "6.6",
+    "currency": "BYN",
+    "fromTime": "15:15",
+    "toTime": "18:22",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b9d"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ba0"
+    },
+    "cost": "12.2",
+    "currency": "BYN",
+    "fromTime": "16:02",
+    "toTime": "19:09",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20b9f"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ba2"
+    },
+    "cost": "5.7",
+    "currency": "BYN",
+    "fromTime": "16:50",
+    "toTime": "19:57",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20ba1"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ba4"
+    },
+    "cost": "7.5",
+    "currency": "BYN",
+    "fromTime": "17:37",
+    "toTime": "20:44",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20ba3"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ba6"
+    },
+    "cost": "12.2",
+    "currency": "BYN",
+    "fromTime": "18:25",
+    "toTime": "21:32",
+    "duration": "3h 7m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20ba5"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ba8"
+    },
+    "cost": "4.9",
+    "currency": "BYN",
+    "fromTime": "06:48",
+    "toTime": "09:31",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20ba7"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20baa"
+    },
+    "cost": "9.8",
+    "currency": "BYN",
+    "fromTime": "07:41",
+    "toTime": "10:24",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20ba9"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bac"
+    },
+    "cost": "5.8",
+    "currency": "BYN",
+    "fromTime": "08:34",
+    "toTime": "11:17",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20bab"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bae"
+    },
+    "cost": "10.6",
+    "currency": "BYN",
+    "fromTime": "09:27",
+    "toTime": "12:10",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20bad"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bb0"
+    },
+    "cost": "5.8",
+    "currency": "BYN",
+    "fromTime": "10:20",
+    "toTime": "13:03",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20baf"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bb2"
+    },
+    "cost": "4.9",
+    "currency": "BYN",
+    "fromTime": "11:13",
+    "toTime": "13:56",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20bb1"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bb4"
+    },
+    "cost": "10.6",
+    "currency": "BYN",
+    "fromTime": "12:06",
+    "toTime": "14:49",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20bb3"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bb6"
+    },
+    "cost": "10.6",
+    "currency": "BYN",
+    "fromTime": "12:59",
+    "toTime": "15:42",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20bb5"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bb8"
+    },
+    "cost": "6.6",
+    "currency": "BYN",
+    "fromTime": "13:53",
+    "toTime": "16:36",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20bb7"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bba"
+    },
+    "cost": "4.9",
+    "currency": "BYN",
+    "fromTime": "14:46",
+    "toTime": "17:29",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20bb9"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bbc"
+    },
+    "cost": "5.8",
+    "currency": "BYN",
+    "fromTime": "15:39",
+    "toTime": "18:22",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20bbb"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bbe"
+    },
+    "cost": "4.9",
+    "currency": "BYN",
+    "fromTime": "16:32",
+    "toTime": "19:15",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20bbd"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bc0"
+    },
+    "cost": "5.8",
+    "currency": "BYN",
+    "fromTime": "17:25",
+    "toTime": "20:08",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20bbf"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bc2"
+    },
+    "cost": "7.4",
+    "currency": "BYN",
+    "fromTime": "18:18",
+    "toTime": "21:01",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20bc1"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bc4"
+    },
+    "cost": "7.4",
+    "currency": "BYN",
+    "fromTime": "19:11",
+    "toTime": "21:54",
+    "duration": "2h 43m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20bc3"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bc6"
+    },
+    "cost": "4.9",
+    "currency": "BYN",
+    "fromTime": "07:16",
+    "toTime": "09:17",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20bc5"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bc8"
+    },
+    "cost": "7.3",
+    "currency": "BYN",
+    "fromTime": "08:07",
+    "toTime": "10:08",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20bc7"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bca"
+    },
+    "cost": "7.9",
+    "currency": "BYN",
+    "fromTime": "08:59",
+    "toTime": "11:00",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20bc9"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bcc"
+    },
+    "cost": "3.7",
+    "currency": "BYN",
+    "fromTime": "09:51",
+    "toTime": "11:52",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20bcb"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bce"
+    },
+    "cost": "4.9",
+    "currency": "BYN",
+    "fromTime": "10:43",
+    "toTime": "12:44",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20bcd"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bd0"
+    },
+    "cost": "4.9",
+    "currency": "BYN",
+    "fromTime": "11:35",
+    "toTime": "13:36",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20bcf"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bd2"
+    },
+    "cost": "7.9",
+    "currency": "BYN",
+    "fromTime": "12:27",
+    "toTime": "14:28",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20bd1"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bd4"
+    },
+    "cost": "5.5",
+    "currency": "BYN",
+    "fromTime": "13:19",
+    "toTime": "15:20",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20bd3"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bd6"
+    },
+    "cost": "3.7",
+    "currency": "BYN",
+    "fromTime": "14:11",
+    "toTime": "16:12",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20bd5"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bd8"
+    },
+    "cost": "3.7",
+    "currency": "BYN",
+    "fromTime": "15:03",
+    "toTime": "17:04",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20bd7"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bda"
+    },
+    "cost": "3.7",
+    "currency": "BYN",
+    "fromTime": "15:55",
+    "toTime": "17:56",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20bd9"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bdc"
+    },
+    "cost": "7.9",
+    "currency": "BYN",
+    "fromTime": "16:47",
+    "toTime": "18:48",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20bdb"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bde"
+    },
+    "cost": "5.5",
+    "currency": "BYN",
+    "fromTime": "17:39",
+    "toTime": "19:40",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20bdd"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20be0"
+    },
+    "cost": "5.5",
+    "currency": "BYN",
+    "fromTime": "18:31",
+    "toTime": "20:32",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20bdf"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20be2"
+    },
+    "cost": "3.7",
+    "currency": "BYN",
+    "fromTime": "19:23",
+    "toTime": "21:24",
+    "duration": "2h 1m",
+    "vehicle": {
+      "$oid": "5f981095dd4bda19bde20be1"
+    },
+    "route": {
+      "$oid": "5f981095dd4bda19bde2085e"
+    }
+  }
+]

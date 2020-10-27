@@ -1,0 +1,568 @@
+[
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20841"
+    },
+    "desc": "Brest — Viciebsk",
+    "from": {
+      "$oid": "5f981095dd4bda19bde2083b"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde2083c"
+    },
+    "opDays": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20842"
+    },
+    "desc": "Brest — Homieĺ",
+    "from": {
+      "$oid": "5f981095dd4bda19bde2083b"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde2083d"
+    },
+    "opDays": [
+      1,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20843"
+    },
+    "desc": "Brest — Hrodna",
+    "from": {
+      "$oid": "5f981095dd4bda19bde2083b"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde2083e"
+    },
+    "opDays": [
+      4,
+      5,
+      7
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20844"
+    },
+    "desc": "Brest — Mahilioŭ",
+    "from": {
+      "$oid": "5f981095dd4bda19bde2083b"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde2083f"
+    },
+    "opDays": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20845"
+    },
+    "desc": "Brest — Minsk",
+    "from": {
+      "$oid": "5f981095dd4bda19bde2083b"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde20840"
+    },
+    "opDays": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20846"
+    },
+    "desc": "Viciebsk — Brest",
+    "from": {
+      "$oid": "5f981095dd4bda19bde2083c"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde2083b"
+    },
+    "opDays": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20847"
+    },
+    "desc": "Viciebsk — Homieĺ",
+    "from": {
+      "$oid": "5f981095dd4bda19bde2083c"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde2083d"
+    },
+    "opDays": [
+      1,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20848"
+    },
+    "desc": "Viciebsk — Hrodna",
+    "from": {
+      "$oid": "5f981095dd4bda19bde2083c"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde2083e"
+    },
+    "opDays": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20849"
+    },
+    "desc": "Viciebsk — Mahilioŭ",
+    "from": {
+      "$oid": "5f981095dd4bda19bde2083c"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde2083f"
+    },
+    "opDays": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2084a"
+    },
+    "desc": "Viciebsk — Minsk",
+    "from": {
+      "$oid": "5f981095dd4bda19bde2083c"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde20840"
+    },
+    "opDays": [
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2084b"
+    },
+    "desc": "Homieĺ — Brest",
+    "from": {
+      "$oid": "5f981095dd4bda19bde2083d"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde2083b"
+    },
+    "opDays": [
+      1,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2084c"
+    },
+    "desc": "Homieĺ — Viciebsk",
+    "from": {
+      "$oid": "5f981095dd4bda19bde2083d"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde2083c"
+    },
+    "opDays": [
+      1,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2084d"
+    },
+    "desc": "Homieĺ — Hrodna",
+    "from": {
+      "$oid": "5f981095dd4bda19bde2083d"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde2083e"
+    },
+    "opDays": [
+      1,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2084e"
+    },
+    "desc": "Homieĺ — Mahilioŭ",
+    "from": {
+      "$oid": "5f981095dd4bda19bde2083d"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde2083f"
+    },
+    "opDays": [
+      1,
+      2,
+      3,
+      4,
+      7
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2084f"
+    },
+    "desc": "Homieĺ — Minsk",
+    "from": {
+      "$oid": "5f981095dd4bda19bde2083d"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde20840"
+    },
+    "opDays": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20850"
+    },
+    "desc": "Hrodna — Brest",
+    "from": {
+      "$oid": "5f981095dd4bda19bde2083e"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde2083b"
+    },
+    "opDays": [
+      4,
+      5,
+      7
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20851"
+    },
+    "desc": "Hrodna — Viciebsk",
+    "from": {
+      "$oid": "5f981095dd4bda19bde2083e"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde2083c"
+    },
+    "opDays": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20852"
+    },
+    "desc": "Hrodna — Homieĺ",
+    "from": {
+      "$oid": "5f981095dd4bda19bde2083e"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde2083d"
+    },
+    "opDays": [
+      1,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20853"
+    },
+    "desc": "Hrodna — Mahilioŭ",
+    "from": {
+      "$oid": "5f981095dd4bda19bde2083e"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde2083f"
+    },
+    "opDays": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20854"
+    },
+    "desc": "Hrodna — Minsk",
+    "from": {
+      "$oid": "5f981095dd4bda19bde2083e"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde20840"
+    },
+    "opDays": [
+      1,
+      3,
+      4,
+      6,
+      7
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20855"
+    },
+    "desc": "Mahilioŭ — Brest",
+    "from": {
+      "$oid": "5f981095dd4bda19bde2083f"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde2083b"
+    },
+    "opDays": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20856"
+    },
+    "desc": "Mahilioŭ — Viciebsk",
+    "from": {
+      "$oid": "5f981095dd4bda19bde2083f"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde2083c"
+    },
+    "opDays": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20857"
+    },
+    "desc": "Mahilioŭ — Homieĺ",
+    "from": {
+      "$oid": "5f981095dd4bda19bde2083f"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde2083d"
+    },
+    "opDays": [
+      1,
+      2,
+      3,
+      4,
+      7
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20858"
+    },
+    "desc": "Mahilioŭ — Hrodna",
+    "from": {
+      "$oid": "5f981095dd4bda19bde2083f"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde2083e"
+    },
+    "opDays": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20859"
+    },
+    "desc": "Mahilioŭ — Minsk",
+    "from": {
+      "$oid": "5f981095dd4bda19bde2083f"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde20840"
+    },
+    "opDays": [
+      2,
+      5,
+      6
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2085a"
+    },
+    "desc": "Minsk — Brest",
+    "from": {
+      "$oid": "5f981095dd4bda19bde20840"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde2083b"
+    },
+    "opDays": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2085b"
+    },
+    "desc": "Minsk — Viciebsk",
+    "from": {
+      "$oid": "5f981095dd4bda19bde20840"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde2083c"
+    },
+    "opDays": [
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2085c"
+    },
+    "desc": "Minsk — Homieĺ",
+    "from": {
+      "$oid": "5f981095dd4bda19bde20840"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde2083d"
+    },
+    "opDays": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2085d"
+    },
+    "desc": "Minsk — Hrodna",
+    "from": {
+      "$oid": "5f981095dd4bda19bde20840"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde2083e"
+    },
+    "opDays": [
+      1,
+      3,
+      4,
+      6,
+      7
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2085e"
+    },
+    "desc": "Minsk — Mahilioŭ",
+    "from": {
+      "$oid": "5f981095dd4bda19bde20840"
+    },
+    "to": {
+      "$oid": "5f981095dd4bda19bde2083f"
+    },
+    "opDays": [
+      2,
+      5,
+      6
+    ]
+  }
+]

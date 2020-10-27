@@ -1,0 +1,5852 @@
+[
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2085f"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "2179 ND-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20861"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "6179 YR-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20822"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20863"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "2693 JF-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20833"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20865"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "2822 CP-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2083a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20867"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "7355 EG-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2083a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20869"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "8416 TA-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2086b"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "2541 WY-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2086d"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "1708 BN-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2086f"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "3884 XQ-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20835"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20871"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "7119 PB-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20830"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20873"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "9130 RR-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20831"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20875"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "8626 NQ-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2083a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20877"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "5115 RM-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20822"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20879"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "4310 QM-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20833"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2087b"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "5136 GI-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20835"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2087d"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "4128 QP-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20839"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2087f"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "0272 RG-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2083a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20881"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "2523 SF-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20883"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "9238 XU-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20827"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20885"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "7862 RZ-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20824"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20887"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "2473 VA-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20823"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20889"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "1774 BW-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20837"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2088b"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "9398 IA-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2088d"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "1930 VL-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2088f"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "0717 SS-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20826"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20891"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "2960 VV-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20824"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20893"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "0369 AW-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20826"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20895"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "1186 RU-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20833"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20897"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "9603 UZ-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20832"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20899"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "4373 RD-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20823"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2089b"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "6210 VT-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20828"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2089d"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "9221 JJ-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20833"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2089f"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "3207 UG-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20838"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208a1"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "1018 FQ-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20825"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208a3"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "6025 FQ-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20835"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208a5"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "7892 CO-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20825"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208a7"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "2624 VY-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20823"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208a9"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "7966 AD-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208ab"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "8020 VZ-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20830"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208ad"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "8450 HW-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208af"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "9362 JQ-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208b1"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "0982 CT-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20825"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208b3"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "3326 AS-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208b5"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "7888 KM-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20825"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208b7"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "5049 LO-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20832"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208b9"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "7375 QA-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20829"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208bb"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "2512 DK-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20834"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208bd"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "2665 QZ-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20836"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208bf"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "6567 TD-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20822"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208c1"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "9262 RF-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20827"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208c3"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "7325 DG-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20833"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208c5"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "3046 AN-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20825"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208c7"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "4320 HQ-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20838"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208c9"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "4702 YS-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208cb"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "3801 VX-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20832"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208cd"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "2890 AX-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20838"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208cf"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "8226 ID-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20839"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208d1"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "6222 AU-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208d3"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "2905 XZ-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20834"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208d5"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "9019 ZS-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20834"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208d7"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "7619 GA-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20826"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208d9"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "3613 LH-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20826"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208db"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "3005 SX-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20838"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208dd"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "2272 MR-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20833"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208df"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "4356 KZ-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20833"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208e1"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "7656 BK-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208e3"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "0760 VY-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20838"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208e5"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "8244 WP-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20831"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208e7"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "7765 UN-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20824"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208e9"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "1908 LI-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20830"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208eb"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "9002 PK-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20827"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208ed"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "8570 VX-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20832"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208ef"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "9331 FC-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20823"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208f1"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "0735 TB-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20838"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208f3"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "7240 CK-1",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208f5"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "5262 GX-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20829"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208f7"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "3602 RR-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20838"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208f9"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "4117 RW-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20831"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208fb"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "6562 SW-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2083a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208fd"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "8030 IJ-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20835"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde208ff"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "0511 XI-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20901"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "7259 FO-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20823"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20903"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "8091 DY-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20836"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20905"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "3754 XN-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20907"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "1373 TW-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20830"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20909"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "7480 GE-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20839"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2090b"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "0954 BU-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2090d"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "9095 BI-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2090f"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "9017 OA-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20911"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "8167 CD-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20826"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20913"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "4726 AV-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20829"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20915"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "4894 NH-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20838"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20917"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "9822 KI-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20833"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20919"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "1044 IP-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2091b"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "9667 KV-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20831"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2091d"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "3556 WN-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20837"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2091f"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "9374 SZ-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20831"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20921"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "3818 IW-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20838"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20923"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "3860 TW-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20925"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "1474 JF-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20831"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20927"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "3057 IA-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20823"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20929"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "4996 HV-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20837"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2092b"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "8950 HT-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20831"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2092d"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "9929 QJ-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2092f"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "6955 JD-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20827"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20931"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "2748 JX-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20933"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "3360 ZS-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20837"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20935"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "8434 IE-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20823"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20937"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "8797 AQ-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2083a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20939"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "5591 IK-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20838"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2093b"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "9347 PK-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20833"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2093d"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "9318 SK-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20836"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2093f"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "7251 GH-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20941"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "1938 AB-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20824"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20943"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "1135 OJ-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20825"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20945"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "8893 NN-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20828"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20947"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "8986 MY-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20824"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20949"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "0862 JK-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2094b"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "4859 XT-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20833"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2094d"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "1720 EQ-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2083a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2094f"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "0539 RA-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20839"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20951"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "4670 PP-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20827"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20953"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "8441 PH-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20838"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20955"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "1410 YH-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20957"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "0212 VA-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20959"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "4061 ZX-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20832"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2095b"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "6533 KG-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2095d"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "6109 TV-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20836"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2095f"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "9139 HE-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20835"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20961"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "4698 QT-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20963"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "1017 VT-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20965"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "7315 GZ-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20822"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20967"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "1484 LG-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2083a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20969"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "3146 VF-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2096b"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "0147 GA-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20834"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2096d"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "1161 SE-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20824"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2096f"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "0308 YS-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20824"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20971"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "4434 OQ-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20826"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20973"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "2702 JA-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20830"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20975"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "1419 PF-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20832"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20977"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "8241 MW-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20827"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20979"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "3723 RW-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20837"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2097b"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "5880 XY-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20838"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2097d"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "6778 SJ-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20829"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2097f"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "1596 KH-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20831"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20981"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "3277 NI-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20983"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "5029 PJ-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20834"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20985"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "0983 FL-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20835"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20987"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "8752 PF-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20823"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20989"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "9496 OW-2",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2083a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2098b"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "2079 YY-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20829"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2098d"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "5324 LB-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2098f"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "1165 AV-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20832"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20991"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "6925 YH-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20836"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20993"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "5177 KN-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20837"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20995"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "9667 RQ-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20822"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20997"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "6778 BU-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20999"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "6462 YW-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20830"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2099b"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "8811 YI-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20825"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2099d"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "2280 PK-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20832"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde2099f"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "8726 IK-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20824"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209a1"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "0294 GW-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209a3"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "6882 NP-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20828"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209a5"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "5134 PE-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209a7"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "0252 OK-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20828"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209a9"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "9526 JH-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20833"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209ab"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "2552 JR-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20832"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209ad"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "0419 TE-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20834"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209af"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "8121 YX-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20824"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209b1"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "3468 PF-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2083a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209b3"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "3769 JO-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2083a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209b5"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "8113 WZ-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20834"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209b7"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "3384 JI-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20839"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209b9"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "9876 UR-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20832"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209bb"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "6989 RV-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20831"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209bd"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "0035 WO-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20839"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209bf"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "4647 AC-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20835"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209c1"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "0326 AI-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20832"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209c3"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "4871 VN-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20839"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209c5"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "6079 AG-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20827"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209c7"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "9992 EY-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2083a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209c9"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "7054 DB-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20828"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209cb"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "1614 DU-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209cd"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "0905 DD-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209cf"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "6379 MY-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20837"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209d1"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "3249 EX-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209d3"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "2073 WU-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20825"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209d5"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "0523 BJ-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209d7"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "2752 IQ-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2083a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209d9"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "8567 CI-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20838"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209db"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "5417 FM-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20834"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209dd"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "3045 XY-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20823"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209df"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "7963 PZ-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209e1"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "8710 YN-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20837"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209e3"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "6629 BN-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20830"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209e5"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "3726 YI-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20823"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209e7"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "0542 US-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20825"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209e9"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "2417 YD-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20830"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209eb"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "4171 FZ-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209ed"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "3923 PT-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209ef"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "8707 HN-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20831"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209f1"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "3736 YW-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20828"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209f3"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "3480 LL-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209f5"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "9985 HK-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20830"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209f7"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "1445 SK-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20828"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209f9"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "3578 KG-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20835"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209fb"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "4148 BJ-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20835"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209fd"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "5498 VN-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20822"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde209ff"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "5054 ZI-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20837"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a01"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "1743 BE-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20829"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a03"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "5120 SM-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2083a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a05"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "7178 EY-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a07"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "1629 LP-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2083a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a09"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "8524 IL-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2083a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a0b"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "0804 MZ-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20830"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a0d"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "0260 YM-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20826"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a0f"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "1746 TY-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a11"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "8269 XP-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20831"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a13"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "3746 HR-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2083a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a15"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "4836 SU-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20839"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a17"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "9870 XT-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20834"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a19"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "4541 JU-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20833"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a1b"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "2659 TW-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20828"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a1d"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "3786 VW-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a1f"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "3735 GE-3",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20830"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a21"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "8580 PY-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20822"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a23"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "2045 DI-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a25"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "9579 YI-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a27"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "2894 GA-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a29"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "3565 WX-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a2b"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "9872 DD-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a2d"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "1832 LO-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20839"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a2f"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "4714 OS-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20829"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a31"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "4795 IL-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20829"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a33"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "6279 IC-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20834"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a35"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "8415 DU-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a37"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "9737 JO-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20827"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a39"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "2333 UA-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20828"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a3b"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "7665 IH-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20829"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a3d"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "4883 NC-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20829"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a3f"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "9636 MT-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20836"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a41"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "4201 JD-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20832"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a43"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "7394 PY-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20830"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a45"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "6239 VI-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20823"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a47"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "0569 MB-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20830"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a49"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "4732 GO-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2083a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a4b"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "0189 ZB-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20824"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a4d"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "5681 AT-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20833"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a4f"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "5132 NP-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20827"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a51"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "7473 YJ-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a53"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "9461 QF-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20823"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a55"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "6471 VT-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20834"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a57"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "2899 VS-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20836"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a59"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "7422 CG-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20827"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a5b"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "4730 LS-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20829"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a5d"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "9414 KH-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20827"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a5f"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "0907 EK-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20822"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a61"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "9200 WV-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2083a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a63"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "9096 QK-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20832"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a65"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "8794 UP-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a67"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "8144 XB-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20837"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a69"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "3013 DI-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20832"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a6b"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "2555 VN-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a6d"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "8679 SM-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a6f"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "0010 EQ-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a71"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "9162 JC-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20826"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a73"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "0744 RJ-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2083a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a75"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "3419 QC-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20838"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a77"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "9890 DR-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a79"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "3443 LV-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20825"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a7b"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "0304 IY-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a7d"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "4552 TY-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a7f"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "5130 TE-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a81"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "9696 ZW-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a83"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "2500 BJ-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20838"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a85"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "1838 DH-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a87"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "9938 IG-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20822"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a89"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "9088 IC-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20834"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a8b"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "7403 MV-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20839"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a8d"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "1264 PN-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20823"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a8f"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "3148 RH-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20835"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a91"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "0143 OF-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a93"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "8397 YC-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20826"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a95"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "0440 CN-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20824"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a97"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "2749 BT-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a99"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "1664 ZU-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20831"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a9b"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "5546 SU-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20822"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a9d"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "2770 EW-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20a9f"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "1144 BD-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20aa1"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "6034 SI-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20825"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20aa3"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "9520 IR-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20826"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20aa5"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "4582 DX-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20835"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20aa7"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "0337 DT-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20839"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20aa9"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "0919 AB-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20822"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20aab"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "4616 YF-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20824"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20aad"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "1256 QZ-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20aaf"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "3015 PB-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ab1"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "2721 ML-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20822"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ab3"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "7228 UZ-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20822"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ab5"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "7663 OI-4",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20836"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ab7"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "6079 VQ-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20826"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ab9"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "3845 TN-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20abb"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "3983 FM-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20838"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20abd"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "8428 LY-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20830"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20abf"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "6039 OL-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20826"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ac1"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "7377 KZ-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20827"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ac3"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "8970 XN-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20833"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ac5"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "0472 SL-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20830"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ac7"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "0864 DA-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20825"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ac9"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "2533 TR-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20834"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20acb"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "2989 ZA-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20830"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20acd"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "5650 WS-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20838"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20acf"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "9351 KT-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20833"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ad1"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "5318 OM-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20835"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ad3"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "3380 PF-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2083a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ad5"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "0977 NZ-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20822"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ad7"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "6845 YF-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20839"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ad9"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "7237 IK-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20833"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20adb"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "7279 AS-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20835"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20add"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "5368 KY-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20833"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20adf"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "0197 WT-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20827"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ae1"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "5825 YA-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20830"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ae3"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "4717 DC-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ae5"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "9020 LU-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20827"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ae7"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "9417 IH-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20822"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ae9"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "8250 OB-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20aeb"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "6426 NE-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20826"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20aed"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "7453 JM-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20826"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20aef"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "7109 UO-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20af1"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "7481 BK-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20823"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20af3"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "0342 NK-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20af5"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "9451 TX-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20835"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20af7"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "0632 EY-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20836"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20af9"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "8241 ZX-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20824"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20afb"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "6710 PH-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2083a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20afd"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "2598 YI-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20833"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20aff"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "7881 MW-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20838"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b01"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "9540 RE-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2083a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b03"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "3818 TR-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b05"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "1225 UD-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20828"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b07"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "0088 TR-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b09"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "5791 BE-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b0b"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "7737 EG-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20830"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b0d"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "3306 DL-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20823"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b0f"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "1364 DW-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20823"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b11"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "1672 BR-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20827"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b13"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "8481 WV-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20825"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b15"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "5316 YU-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20827"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b17"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "4843 US-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20832"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b19"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "3159 IL-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20828"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b1b"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "1475 LZ-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20823"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b1d"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "5640 OS-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20834"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b1f"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "8068 ZD-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20835"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b21"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "9362 IM-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b23"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "2706 PT-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20824"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b25"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "3389 DF-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b27"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "8031 RI-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20823"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b29"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "9377 AL-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20828"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b2b"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "5915 ZZ-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20838"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b2d"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "3724 UX-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20828"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b2f"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "0026 AY-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20824"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b31"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "8392 FZ-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20831"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b33"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "3868 EJ-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b35"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "8365 JV-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20830"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b37"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "7778 YF-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20832"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b39"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "1414 PZ-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20825"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b3b"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "4790 BW-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20826"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b3d"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "6538 BI-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20833"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b3f"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "9810 MR-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20828"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b41"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "0317 SB-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20828"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b43"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "1072 IX-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20829"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b45"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "9047 CW-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20838"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b47"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "4410 LQ-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b49"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "9068 QK-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20834"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b4b"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "9464 EB-6",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20839"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b4d"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "9895 OJ-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b4f"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "3982 XW-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20838"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b51"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "4028 YD-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20837"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b53"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "8920 ZR-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20828"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b55"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "9579 KC-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20833"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b57"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "6653 XV-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20836"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b59"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "9787 OI-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20826"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b5b"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "4970 HE-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20825"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b5d"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "5768 VL-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20825"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b5f"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "9296 QM-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20828"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b61"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "4021 FL-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20833"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b63"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "1316 MW-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20837"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b65"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "6840 IT-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20827"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b67"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "3392 JP-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20829"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b69"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "5206 SH-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b6b"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "0490 WI-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20838"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b6d"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "0980 EE-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20837"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b6f"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "4533 AU-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20835"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b71"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "8116 UK-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20823"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b73"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "6083 RF-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20835"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b75"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "7228 FJ-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b77"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "2242 JS-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b79"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "5058 QO-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20837"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b7b"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "2224 KM-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20828"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b7d"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "8325 JF-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20827"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b7f"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "1637 HE-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b81"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "6115 YE-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20823"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b83"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "9002 YD-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b85"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "1622 ZV-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20835"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b87"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "6311 JJ-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20825"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b89"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "7450 RU-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20834"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b8b"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "2376 NQ-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20832"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b8d"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "1700 IN-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20835"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b8f"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "1271 IQ-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20827"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b91"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "5360 RC-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b93"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "4240 DG-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20829"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b95"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "6162 WE-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20823"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b97"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "5800 GJ-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20837"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b99"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "4522 FV-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20828"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b9b"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "5512 HG-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20834"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b9d"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "5292 FG-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20832"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20b9f"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "6530 VL-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20830"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ba1"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "1622 XE-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ba3"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "8245 KS-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2083a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ba5"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "6618 QD-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20838"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ba7"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "2758 FB-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20833"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20ba9"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "1860 MH-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20829"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bab"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "7700 YO-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20832"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bad"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "7068 BI-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20836"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20baf"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "2716 XP-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bb1"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "5712 FU-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20822"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bb3"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "9129 HL-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20835"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bb5"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "6547 OC-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bb7"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "7488 VP-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2083a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bb9"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "7750 IG-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20837"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bbb"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "2167 GZ-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20825"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bbd"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "2258 TY-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20822"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bbf"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "1050 PS-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bc1"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "4596 TM-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20826"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bc3"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "6571 RD-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20826"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bc5"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "0621 IW-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bc7"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "9427 WF-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20827"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bc9"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "3570 KH-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bcb"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "6272 CC-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20822"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bcd"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "7111 RW-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bcf"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "3129 BY-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bd1"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "0815 WQ-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20830"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bd3"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Sprinter",
+    "capacity": 15,
+    "plateNum": "7727 PT-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20831"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bd5"
+    },
+    "color": "#FFFFFF",
+    "make": "VW",
+    "model": "California",
+    "capacity": 15,
+    "plateNum": "4085 VM-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20833"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bd7"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "5631 VQ-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20833"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bd9"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "7957 PW-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde2082b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bdb"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "6611 FX-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20834"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bdd"
+    },
+    "color": "#8B4513",
+    "make": "MBZ",
+    "model": "Vito",
+    "capacity": 15,
+    "plateNum": "9020 XZ-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20826"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20bdf"
+    },
+    "color": "#2E8B57",
+    "make": "Peugeout",
+    "model": "Boxer",
+    "capacity": 15,
+    "plateNum": "8531 XV-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20831"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f981095dd4bda19bde20be1"
+    },
+    "color": "#2E8B57",
+    "make": "VW",
+    "model": "Crafter",
+    "capacity": 15,
+    "plateNum": "0943 WP-7",
+    "carrier": {
+      "$oid": "5f981095dd4bda19bde20833"
+    }
+  }
+]
