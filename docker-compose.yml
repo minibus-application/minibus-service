@@ -12,8 +12,6 @@ services:
       - MONGO_INITDB_ROOT_PASSWORD=$MONGO_PASS
     ports:
       - "27017:27017"
-    volumes:
-      - dbdata:/data/db
     networks:
       - minibus-network
 
@@ -57,5 +55,4 @@ networks:
     driver: bridge
 
 volumes:
-  dbdata:
   node_modules:

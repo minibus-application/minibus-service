@@ -7,7 +7,7 @@ require('dotenv').config();
  */
 
 const jwt = require('jsonwebtoken');
-const bcrypt = require('bcrypt');
+const bcrypt = require('bcryptjs');
 const mongoose = require('mongoose');
 const moment = require('moment');
 const ObjectId = mongoose.Types.ObjectId;
@@ -124,11 +124,9 @@ UserSchema.statics = {
             },
             {$unset: ['bookings.user']}
         ]).exec((err, results) => {
-            if (err || results.length === 0) throw new AppError(err.statusCode, err.status);
+            const result = results ? results[0] : err;
 
-            const result = results[0];
-
-            if (result.bookings.length > 0) {
+            if (result.bookings && result.bookings.length > 0) {
                 // filtering user bookings depending on 'history' query
                 if (opts.history === 'true') {
                     result.bookings = _.filter(result.bookings, (b) => !b.active)
