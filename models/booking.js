@@ -11,8 +11,8 @@ const Schema = mongoose.Schema;
  * Local modules
  */
 
-const {Trip} = require('.//trip');
-const {User} = require('.//user');
+const {Trip} = require('./trip');
+const {User} = require('./user');
 
 /**
  * Main

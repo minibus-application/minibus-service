@@ -69,9 +69,7 @@ exports.bookTrip = (req, res, next) => {
                 next(new AppError(404, 'The trip was not found'))
             }
         })
-        .catch(err => {
-            next(new AppError(err.statusCode, err.status))
-        })
+        .catch(err => next(new AppError(err.statusCode, err.status)))
 };
 
 exports.getSchedule = (req, res, next) => {
@@ -170,7 +168,6 @@ exports.getSchedule = (req, res, next) => {
                     });
                 }
             }
-
             res.status(200).json(result)
         })
         .catch(err => next(new AppError(err.statusCode, err.status)))

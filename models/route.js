@@ -11,7 +11,7 @@ const Schema = mongoose.Schema;
  * Local modules
  */
 
-const {City} = require('.//city');
+const {City} = require('./city');
 
 /**
  * Main

@@ -42,14 +42,11 @@ app.use(helmet());
 morgan.token('body', (req, res) => JSON.stringify(req.body));
 app.use(morgan(function (tokens, req, res) {
     return [
-        chalk.red('[Morgan]'),
-        chalk.blue(`[${tokens.date(req, res)}]`),
-        chalk.green(`${tokens.method(req, res)}`),
-        chalk.green(`${tokens.status(req, res)}`),
+        `[${tokens.date(req, res)}]`,
+        chalk.bold(`[${tokens.method(req, res)} ${tokens.status(req, res)}]`),
         chalk.blue(tokens.url(req, res)),
-        chalk.magenta(tokens['response-time'](req, res) + ' ms'),
-        chalk.yellow(tokens['remote-addr'](req, res)),
-        chalk.yellow(tokens['user-agent'](req, res)),
+        chalk.magenta(tokens['response-time'](req, res) + 'ms'),
+        chalk.bold(`[${tokens['remote-addr'](req, res)}, ${tokens['user-agent'](req, res)}]`),
         chalk.gray(`body: ${tokens['body'](req, res)}`)
     ].join(' ');
 }));

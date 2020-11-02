@@ -10,8 +10,6 @@ const mongoose = require('mongoose');
 const cron = require('node-cron');
 const moment = require('moment');
 const _ = require('lodash');
-const {Booking} = require('./models/booking');
-const {User} = require('./models/user');
 const http = require('http');
 const port = process.env.PORT || 8080;
 
@@ -20,6 +18,9 @@ const port = process.env.PORT || 8080;
  */
 
 const app = require('./application');
+const AppError = require('./helpers/error');
+const {Booking} = require('./models/booking');
+const {User} = require('./models/user');
 
 /**
  * Main
@@ -60,7 +61,7 @@ mongoose.connect(mongodbUrl, {
  */
 
 process.on('uncaughtException', (err) => {
-    console.log(err);
+    console.log(`Caught exception: ${err}`);
 });
 
 process.on('SIGTERM', (signal) => {
@@ -96,5 +97,5 @@ cron.schedule('*/1 * * * *', async function () {
                 })
             }
         })
-        .catch(err => console.log(err))
+        .catch(err => new AppError(500, err.toString()))
 });
