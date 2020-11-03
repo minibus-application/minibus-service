@@ -11,7 +11,7 @@ services:
       - MONGO_INITDB_ROOT_USERNAME=$MONGO_USER
       - MONGO_INITDB_ROOT_PASSWORD=$MONGO_PASS
     ports:
-      - "27017:27017"
+      - "${MONGO_PORT}:${MONGO_PORT}"
     networks:
       - minibus-network
 
@@ -30,7 +30,7 @@ services:
       - MONGO_PORT=$MONGO_PORT
       - MONGO_DB=$MONGO_DB
     ports:
-      - "80:8080"
+      - "${PORT}:${PORT}"
     volumes:
       - .:/home/node/app
       - node_modules:/home/node/app/node_modules
@@ -42,6 +42,7 @@ services:
 
   mongodb-seed:
     image: mongo:4.2
+    env_file: .env
     networks:
       - minibus-network
     depends_on:

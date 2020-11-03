@@ -9,9 +9,9 @@ require('dotenv').config();
 const mongoose = require('mongoose');
 const cron = require('node-cron');
 const moment = require('moment');
+const crypto = require('crypto');
 const _ = require('lodash');
 const http = require('http');
-const port = process.env.PORT || 8080;
 
 /**
  * Local modules
@@ -26,9 +26,19 @@ const {User} = require('./models/user');
  * Main
  */
 
+let mongodbUrl;
+const port = process.env.PORT || 3000;
 
-const mongodbUrl = process.env.MONGO_URI ||
-    `mongodb://${process.env.MONGO_USER}:${process.env.MONGO_PASS}@${process.env.MONGO_HOST}:${process.env.MONGO_PORT}/${process.env.MONGO_DB}?authSource=admin`;
+if (process.env.MONGO_URI) {
+    // JWT_SECRET key should be passed as env variable
+    mongodbUrl = process.env.MONGO_URI; // atlas mongodb uri
+} else {
+    // assuming that the launch is going to be performed in a Docker container
+    process.env.JWT_SECRET = crypto.randomBytes(64).toString('base64');
+    mongodbUrl = `mongodb://${process.env.MONGO_USER}:${process.env.MONGO_PASS}@${process.env.MONGO_HOST}:${process.env.MONGO_PORT}/${process.env.MONGO_DB}?authSource=admin`;
+}
+
+
 const server = http.createServer(app);
 
 function listen() {
