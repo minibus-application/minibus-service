@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 mongoimport --host $MONGO_HOST --port $MONGO_PORT -u $MONGO_USER -p $MONGO_PASS --authenticationDatabase admin --db $MONGO_DB --collection carriers --file /data/carriers.json --jsonArray
 mongoimport --host $MONGO_HOST --port $MONGO_PORT -u $MONGO_USER -p $MONGO_PASS --authenticationDatabase admin --db $MONGO_DB --collection cities --file /data/cities.json --jsonArray

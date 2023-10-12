@@ -10,8 +10,6 @@ services:
     environment:
       - MONGO_INITDB_ROOT_USERNAME=$MONGO_USER
       - MONGO_INITDB_ROOT_PASSWORD=$MONGO_PASS
-    ports:
-      - "${MONGO_PORT}:${MONGO_PORT}"
     networks:
       - minibus-network
 
@@ -49,7 +47,7 @@ services:
       - minibus-nodejs
     volumes:
       - ./mongo:/data
-    command: /data/import.sh
+    command: bash -c "/data/import.sh"
 
 networks:
   minibus-network:
